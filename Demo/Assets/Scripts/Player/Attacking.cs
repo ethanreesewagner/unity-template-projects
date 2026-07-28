@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 // INFORMATION ==================================================
@@ -8,24 +6,40 @@ using UnityEngine;
 // ==============================================================
 public class Attacking : MonoBehaviour
 {
-    [SerializeField] float _attackDamage;
-    [SerializeField] float _attackRadius;
+    [SerializeField] private float _attackDamage = 20f;
+    [SerializeField] private float _attackRadius = 1.2f;
+    [SerializeField] private float _attackCooldown = 0.3f;
+
+    private float _nextAttackTime;
 
     //Each frame, if the key is pressed, start an attack
-    void Update()
+    private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Q))
+        if (Input.GetKeyDown(KeyCode.Q) && Time.time >= _nextAttackTime)
         {
             HandleAttack();
+            _nextAttackTime = Time.time + _attackCooldown;
         }
     }
 
     //Performs calculations to deal damage.
-    void HandleAttack()
+    private void HandleAttack()
     {
-        RaycastHit2D hit = Physics2D.CircleCast(new Vector2(transform.position.x, transform.position.y), _attackRadius, Vector2.zero);
-        if (!hit) {return;}
-        IDamageable i = hit.collider.gameObject.GetComponent<IDamageable>();
-        i.DealDamage(_attackDamage);
+        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, _attackRadius);
+
+        foreach (var hit in hits)
+        {
+            if (hit.gameObject == gameObject)
+            {
+                continue;
+            }
+
+            var damageable = hit.GetComponent<IDamageable>();
+            if (damageable != null)
+            {
+                damageable.DealDamage(_attackDamage);
+                return;
+            }
+        }
     }
 }

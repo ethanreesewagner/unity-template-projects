@@ -16,9 +16,13 @@ public class TopDownMovement : MonoBehaviour
     /// </summary>
     protected Rigidbody2D _rb2d;
     public float speed;
+
+    private SpriteRenderer _spriteRenderer;
+
     void Start()
     {
         _rb2d = this.gameObject.GetComponent<Rigidbody2D>();
+        _spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     //Update is called once per frame
@@ -27,5 +31,17 @@ public class TopDownMovement : MonoBehaviour
     {
         Vector2 movement = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
         _rb2d.velocity = movement * speed;
+
+        if (_spriteRenderer != null)
+        {
+            if (movement.x < 0f)
+            {
+                _spriteRenderer.flipX = true;
+            }
+            else if (movement.x > 0f)
+            {
+                _spriteRenderer.flipX = false;
+            }
+        }
     }
 }
