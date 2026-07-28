@@ -6,9 +6,9 @@ using UnityEngine;
 // ==============================================================
 public class Attacking : MonoBehaviour
 {
-    [SerializeField] private float _attackDamage = 20f;
-    [SerializeField] private float _attackRadius = 1.2f;
-    [SerializeField] private float _attackCooldown = 0.3f;
+    [SerializeField] private float _attackDamage = 12f;
+    [SerializeField] private float _attackRadius = 1.4f;
+    [SerializeField] private float _attackCooldown = 0.35f;
 
     private float _nextAttackTime;
 
@@ -35,6 +35,11 @@ public class Attacking : MonoBehaviour
             }
 
             var damageable = hit.GetComponent<IDamageable>();
+            if (damageable == null)
+            {
+                damageable = hit.GetComponentInChildren<IDamageable>();
+            }
+
             if (damageable != null)
             {
                 damageable.DealDamage(_attackDamage);

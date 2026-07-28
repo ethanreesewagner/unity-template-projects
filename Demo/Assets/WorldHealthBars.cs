@@ -50,6 +50,9 @@ public class WorldHealthBars : MonoBehaviour
     {
         var barObject = new GameObject(name);
         barObject.transform.SetParent(transform, false);
+        barObject.transform.localPosition = Vector3.zero;
+        barObject.transform.localRotation = Quaternion.identity;
+        barObject.transform.localScale = Vector3.one;
 
         var canvas = barObject.AddComponent<Canvas>();
         canvas.renderMode = RenderMode.WorldSpace;
@@ -58,9 +61,12 @@ public class WorldHealthBars : MonoBehaviour
 
         var canvasRect = barObject.GetComponent<RectTransform>();
         canvasRect.sizeDelta = new Vector2(barWidth, barHeight);
+        canvasRect.localPosition = Vector3.zero;
+        canvasRect.localScale = Vector3.one;
 
         var background = new GameObject("Background");
         background.transform.SetParent(barObject.transform, false);
+        background.transform.localScale = Vector3.one;
         var bgImage = background.AddComponent<Image>();
         bgImage.sprite = Resources.GetBuiltinResource<Sprite>("UI/Skin/UISprite.psd");
         bgImage.color = backgroundColor;
@@ -69,9 +75,11 @@ public class WorldHealthBars : MonoBehaviour
         bgRect.anchorMax = new Vector2(1f, 1f);
         bgRect.offsetMin = Vector2.zero;
         bgRect.offsetMax = Vector2.zero;
+        bgRect.localScale = Vector3.one;
 
         var fillObject = new GameObject("Fill");
         fillObject.transform.SetParent(barObject.transform, false);
+        fillObject.transform.localScale = Vector3.one;
         var fillImage = fillObject.AddComponent<Image>();
         fillImage.sprite = Resources.GetBuiltinResource<Sprite>("UI/Skin/UISprite.psd");
         fillImage.color = fillTint;
@@ -85,6 +93,7 @@ public class WorldHealthBars : MonoBehaviour
         fillRect.anchorMax = new Vector2(1f, 1f);
         fillRect.offsetMin = new Vector2(0.04f * barWidth, 0.08f * barHeight);
         fillRect.offsetMax = new Vector2(-0.04f * barWidth, -0.08f * barHeight);
+        fillRect.localScale = Vector3.one;
 
         return (canvasRect, fillImage);
     }
@@ -106,6 +115,7 @@ public class WorldHealthBars : MonoBehaviour
         var screenPosition = targetTransform.position + offset;
         bar.position = screenPosition;
         bar.rotation = Quaternion.identity;
+        bar.localScale = Vector3.one;
 
         float fillAmount = 0f;
         if (targetHealth is PlayerHealth player)
