@@ -13,10 +13,7 @@ public class HPdisplay : MonoBehaviour
 
     private void Awake()
     {
-        if (playerHealth == null)
-        {
-            playerHealth = FindObjectOfType<PlayerHealth>();
-        }
+        EnsurePlayerHealth();
 
         if (enemyLogic == null)
         {
@@ -43,6 +40,11 @@ public class HPdisplay : MonoBehaviour
 
     private void Update()
     {
+        if (playerHealth == null)
+        {
+            EnsurePlayerHealth();
+        }
+
         if (playerHealth != null)
         {
             _playerHealthLabel = $"Player HP: {playerHealth.CurrentHealth:0}/{playerHealth.MaxHealth:0}";
@@ -69,6 +71,36 @@ public class HPdisplay : MonoBehaviour
         if (enemyHealthText != null)
         {
             enemyHealthText.text = _enemyHealthLabel;
+        }
+    }
+
+    private void EnsurePlayerHealth()
+    {
+        if (playerHealth != null)
+        {
+            return;
+        }
+
+        GameObject playerObject = GameObject.FindGameObjectWithTag("Player");
+        if (playerObject == null)
+        {
+            playerObject = FindObjectOfType<PlayerHealth>()?.gameObject;
+        }
+
+        if (playerObject == null)
+        {
+            playerObject = FindObjectOfType<TopDownMovement>()?.gameObject;
+        }
+
+        if (playerObject == null)
+        {
+            return;
+        }
+
+        playerHealth = playerObject.GetComponent<PlayerHealth>();
+        if (playerHealth == null)
+        {
+            playerHealth = playerObject.AddComponent<PlayerHealth>();
         }
     }
 

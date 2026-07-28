@@ -15,10 +15,7 @@ public class HUD : MonoBehaviour
 
     private void Awake()
     {
-        if (playerHealth == null)
-        {
-            playerHealth = FindObjectOfType<PlayerHealth>();
-        }
+        EnsurePlayerHealthAndAttack();
 
         if (enemyLogic == null)
         {
@@ -50,6 +47,11 @@ public class HUD : MonoBehaviour
 
     private void Update()
     {
+        if (playerHealth == null)
+        {
+            EnsurePlayerHealthAndAttack();
+        }
+
         if (playerHealth != null)
         {
             _playerHealthLabel = $"Player HP: {playerHealth.CurrentHealth:0}/{playerHealth.MaxHealth:0}";
@@ -81,6 +83,42 @@ public class HUD : MonoBehaviour
         if (instructionsText != null)
         {
             instructionsText.text = _instructionLabel;
+        }
+    }
+
+    private void EnsurePlayerHealthAndAttack()
+    {
+        if (playerHealth != null)
+        {
+            return;
+        }
+
+        GameObject playerObject = GameObject.FindGameObjectWithTag("Player");
+        if (playerObject == null)
+        {
+            playerObject = FindObjectOfType<PlayerHealth>()?.gameObject;
+        }
+
+        if (playerObject == null)
+        {
+            playerObject = FindObjectOfType<TopDownMovement>()?.gameObject;
+        }
+
+        if (playerObject == null)
+        {
+            return;
+        }
+
+        playerHealth = playerObject.GetComponent<PlayerHealth>();
+        if (playerHealth == null)
+        {
+            playerHealth = playerObject.AddComponent<PlayerHealth>();
+        }
+
+        var attacking = playerObject.GetComponent<Attacking>();
+        if (attacking == null)
+        {
+            playerObject.AddComponent<Attacking>();
         }
     }
 
