@@ -12,9 +12,32 @@ public class HUD : MonoBehaviour
     private string _playerHealthLabel = "Player HP: N/A";
     private string _enemyHealthLabel = "Enemy HP: N/A";
     private readonly string _instructionLabel = "Press Q to attack";
+    private bool _shouldShowHud;
 
     private void Awake()
     {
+        _shouldShowHud = FindObjectOfType<WorldHealthBars>() == null;
+
+        if (!_shouldShowHud)
+        {
+            if (playerHealthText != null)
+            {
+                playerHealthText.text = string.Empty;
+            }
+
+            if (enemyHealthText != null)
+            {
+                enemyHealthText.text = string.Empty;
+            }
+
+            if (instructionsText != null)
+            {
+                instructionsText.text = string.Empty;
+            }
+
+            return;
+        }
+
         EnsurePlayerHealthAndAttack();
 
         if (enemyLogic == null)
@@ -47,6 +70,11 @@ public class HUD : MonoBehaviour
 
     private void Update()
     {
+        if (!_shouldShowHud)
+        {
+            return;
+        }
+
         if (playerHealth == null)
         {
             EnsurePlayerHealthAndAttack();

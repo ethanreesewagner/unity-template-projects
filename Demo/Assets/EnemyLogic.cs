@@ -20,15 +20,16 @@ public class EnemyLogic : MonoBehaviour, IDamageable
     private float _currentHealth;
     private bool _isDead;
 
+    private void Awake()
+    {
+        EnsureEnemyComponents();
+    }
+
     private void Start()
     {
-        _rb = GetComponent<Rigidbody2D>();
-        if (_rb != null)
-        {
-            _rb.gravityScale = 0f;
-            _rb.freezeRotation = true;
-        }
+        EnsureEnemyComponents();
 
+        maxHealth = Mathf.Max(maxHealth, 120f);
         _currentHealth = maxHealth;
         _spriteRenderer = GetComponent<SpriteRenderer>();
         _player = FindPlayerTransform();
@@ -46,6 +47,37 @@ public class EnemyLogic : MonoBehaviour, IDamageable
             {
                 chaseSpeed = Mathf.Max(0.5f, playerMovement.speed * 0.7f);
             }
+        }
+    }
+
+    private void EnsureEnemyComponents()
+    {
+        if (_rb == null)
+        {
+            _rb = GetComponent<Rigidbody2D>();
+        }
+
+        if (_rb == null)
+        {
+            _rb = gameObject.AddComponent<Rigidbody2D>();
+        }
+
+        _rb.gravityScale = 0f;
+        _rb.freezeRotation = true;
+
+        if (GetComponent<Collider2D>() == null)
+        {
+            gameObject.AddComponent<BoxCollider2D>();
+        }
+
+        if (GetComponent<SpriteRenderer>() == null)
+        {
+            gameObject.AddComponent<SpriteRenderer>();
+        }
+
+        if (!gameObject.CompareTag("Enemy"))
+        {
+            gameObject.tag = "Enemy";
         }
     }
 
@@ -111,6 +143,14 @@ public class EnemyLogic : MonoBehaviour, IDamageable
         if (_playerDamageable != null)
         {
             _playerDamageable.DealDamage(attackDamage);
+        }
+        else
+        {
+            var player = FindObjectOfType<PlayerHealth>();
+            if (player != null)
+            {
+                player.DealDamage(attackDamage);
+            }
         }
 
         _nextAttackTime = Time.time + attackCooldown;
