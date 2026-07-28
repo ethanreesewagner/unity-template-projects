@@ -100,17 +100,17 @@ public class HUD : MonoBehaviour
 
         if (playerHealthText != null)
         {
-            playerHealthText.text = _playerHealthLabel;
+            playerHealthText.text = string.Empty;
         }
 
         if (enemyHealthText != null)
         {
-            enemyHealthText.text = _enemyHealthLabel;
+            enemyHealthText.text = string.Empty;
         }
 
         if (instructionsText != null)
         {
-            instructionsText.text = _instructionLabel;
+            instructionsText.text = string.Empty;
         }
     }
 
@@ -152,24 +152,5 @@ public class HUD : MonoBehaviour
 
     private void OnGUI()
     {
-        if (playerHealthText != null && enemyHealthText != null && instructionsText != null)
-        {
-            return;
-        }
-
-        GUIStyle style = new GUIStyle(GUI.skin.label)
-        {
-            fontSize = 18,
-            normal = { textColor = Color.white },
-            alignment = TextAnchor.UpperLeft
-        };
-
-        float x = 10f;
-        float y = 10f;
-        float lineHeight = 26f;
-
-        GUI.Label(new Rect(x, y, 300, lineHeight), _playerHealthLabel, style);
-        GUI.Label(new Rect(x, y + lineHeight, 300, lineHeight), _enemyHealthLabel, style);
-        GUI.Label(new Rect(x, y + lineHeight * 2, 300, lineHeight), _instructionLabel, style);
     }
 }

@@ -20,16 +20,7 @@ public class WorldHealthBars : MonoBehaviour
 
     private void Awake()
     {
-        if (playerHealth == null)
-        {
-            playerHealth = FindObjectOfType<PlayerHealth>();
-        }
-
-        if (enemyLogic == null)
-        {
-            enemyLogic = FindObjectOfType<EnemyLogic>();
-        }
-
+        RefreshTargets();
         CreateBars();
     }
 
@@ -100,8 +91,22 @@ public class WorldHealthBars : MonoBehaviour
 
     private void Update()
     {
+        RefreshTargets();
         UpdateBar(playerHealth, playerOffset, _playerBar, _playerFillImage);
         UpdateBar(enemyLogic, enemyOffset, _enemyBar, _enemyFillImage);
+    }
+
+    private void RefreshTargets()
+    {
+        if (playerHealth == null)
+        {
+            playerHealth = FindObjectOfType<PlayerHealth>();
+        }
+
+        if (enemyLogic == null)
+        {
+            enemyLogic = FindObjectOfType<EnemyLogic>();
+        }
     }
 
     private void UpdateBar(MonoBehaviour targetHealth, Vector3 offset, RectTransform bar, Image fillImage)
