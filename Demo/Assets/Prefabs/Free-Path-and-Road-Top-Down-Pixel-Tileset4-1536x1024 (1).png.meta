@@ -1,0 +1,1540 @@
+fileFormatVersion: 2
+guid: e29a1341f572d084a947f5bb2eb20009
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6091596074343174271
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_0
+  - first:
+      213: -4571373911854899791
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_1
+  - first:
+      213: 4441204384851001011
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_2
+  - first:
+      213: 8036683983531407683
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_3
+  - first:
+      213: -2217409059955451946
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_4
+  - first:
+      213: -5007930609078807871
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_5
+  - first:
+      213: -3268345126403576535
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_6
+  - first:
+      213: 3733386650950896737
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_7
+  - first:
+      213: -9219856819384581762
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_8
+  - first:
+      213: -9123315535740233533
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_9
+  - first:
+      213: -3532564278848116891
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_10
+  - first:
+      213: -5709565641249800972
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_11
+  - first:
+      213: 9206709386318871751
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_12
+  - first:
+      213: -6846691293984548198
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_13
+  - first:
+      213: 8431351072934177518
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_14
+  - first:
+      213: -1250917162984646689
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_15
+  - first:
+      213: -5866407968512845983
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_16
+  - first:
+      213: 5756966595113287537
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_17
+  - first:
+      213: -5196306117603355934
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_18
+  - first:
+      213: 1231953852951019420
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_19
+  - first:
+      213: -6039758953575376064
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_20
+  - first:
+      213: 8344470299274460172
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_21
+  - first:
+      213: 4355211999535381832
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_22
+  - first:
+      213: 7427798359414586162
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_23
+  - first:
+      213: -2972724210333075684
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_24
+  - first:
+      213: 6178585161044429406
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_25
+  - first:
+      213: -3864867585999862583
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_26
+  - first:
+      213: 7412612923315851891
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_27
+  - first:
+      213: 6279658990708857440
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_28
+  - first:
+      213: -379352928829501844
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_29
+  - first:
+      213: 8703259105664314605
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_30
+  - first:
+      213: -6243830740108026955
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_31
+  - first:
+      213: -4845717998855764477
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_32
+  - first:
+      213: 5246390207927229028
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_33
+  - first:
+      213: 5658877916071203111
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_34
+  - first:
+      213: 3287546675600380882
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_35
+  - first:
+      213: -4355088478760451948
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_36
+  - first:
+      213: -5718045631057277399
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_37
+  - first:
+      213: 8803624490317273132
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_38
+  - first:
+      213: 3076997703811993363
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_39
+  - first:
+      213: -1197114222162980620
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_40
+  - first:
+      213: 1510586225509447727
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_41
+  - first:
+      213: -7281986642545698804
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_42
+  - first:
+      213: -7264577985176192403
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_43
+  - first:
+      213: -4918292882530165837
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_44
+  - first:
+      213: 2660874874016225509
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_45
+  - first:
+      213: 8813990977993845039
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_46
+  - first:
+      213: -827697638789519970
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_47
+  - first:
+      213: 935855145508818462
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_48
+  - first:
+      213: 8374352937063190728
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_49
+  - first:
+      213: 9073010355391117765
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_50
+  - first:
+      213: -2354272040197725168
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_51
+  - first:
+      213: -3718387287847401775
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_52
+  - first:
+      213: -737313601178338284
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_53
+  - first:
+      213: 3066887694881557221
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_54
+  - first:
+      213: -8201009658321239202
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_55
+  - first:
+      213: -8482761301351733273
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_56
+  - first:
+      213: -7201549627760589083
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_57
+  - first:
+      213: -1482349723637312423
+    second: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_58
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 567
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70936eda52b98450800000000000000
+      internalID: 6091596074343174271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 565
+        width: 106
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd9668b5a73f80c0800000000000000
+      internalID: -4571373911854899791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 566
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be73f58bd352ad30800000000000000
+      internalID: 4441204384851001011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 561
+        width: 107
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349f57ab089088f60800000000000000
+      internalID: 8036683983531407683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 568
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d75f93553e2a31e0800000000000000
+      internalID: -2217409059955451946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 498
+        width: 180
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c25d0ae4a1408ab0800000000000000
+      internalID: -5007930609078807871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 463
+        width: 56
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92de5598c6184a2d0800000000000000
+      internalID: -3268345126403576535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 379
+        width: 139
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c0d13f067afc330800000000000000
+      internalID: 3733386650950896737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 382
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e718e98521d7c0080800000000000000
+      internalID: -9219856819384581762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 382
+        width: 92
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8966e8bd8736180800000000000000
+      internalID: -9123315535740233533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 490
+        width: 237
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5672605318fc9fec0800000000000000
+      internalID: -3532564278848116891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 450
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcb783cc4c83c0b0800000000000000
+      internalID: -5709565641249800972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 382
+        width: 121
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc7ac9586dc4cf70800000000000000
+      internalID: 9206709386318871751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 381
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a9a4f1b8aabf0a0800000000000000
+      internalID: -6846691293984548198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 380
+        width: 81
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaa9de212d220570800000000000000
+      internalID: 8431351072934177518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 382
+        width: 207
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd75cd8c779d3aee0800000000000000
+      internalID: -1250917162984646689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 191
+        width: 144
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1675541c805569ea0800000000000000
+      internalID: -5866407968512845983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 130
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f7485dd9ad4ef40800000000000000
+      internalID: 5756966595113287537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 220
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e210140e1303e7b0800000000000000
+      internalID: -5196306117603355934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 191
+        width: 144
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fb1d88087c81110800000000000000
+      internalID: 1231953852951019420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 193
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b97235b377e2ca0800000000000000
+      internalID: -6039758953575376064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 220
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c3d0bb6838dc370800000000000000
+      internalID: 8344470299274460172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 204
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d33d91d32d07c30800000000000000
+      internalID: 4355211999535381832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 131
+        width: 94
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bb224f047d41760800000000000000
+      internalID: 7427798359414586162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 220
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17b4e3b413ceb6d0800000000000000
+      internalID: -2972724210333075684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 191
+        width: 144
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a8d8ae77ebeb550800000000000000
+      internalID: 6178585161044429406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 130
+        width: 93
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c48e80586b3d5ac0800000000000000
+      internalID: -3864867585999862583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 220
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37216b71e24eed660800000000000000
+      internalID: 7412612923315851891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 191
+        width: 144
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a1acbb494d52750800000000000000
+      internalID: 6279658990708857440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 192
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e0d9865844cbaf0800000000000000
+      internalID: -379352928829501844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 220
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec2e457b0038c870800000000000000
+      internalID: 8703259105664314605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 131
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb523ae5057959a0800000000000000
+      internalID: -6243830740108026955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 191
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3064c7c572d80ccb0800000000000000
+      internalID: -4845717998855764477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 131
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a1798f81ceec840800000000000000
+      internalID: 5246390207927229028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 118
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7211abe8b7f588e40800000000000000
+      internalID: 5658877916071203111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 118
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d35da58846bf9d20800000000000000
+      internalID: 3287546675600380882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 118
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49046125a1e9f83c0800000000000000
+      internalID: -4355088478760451948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 118
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e4b574bcb65a0b0800000000000000
+      internalID: -5718045631057277399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 118
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c285a4194d1cc2a70800000000000000
+      internalID: 8803624490317273132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 66
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f0866eb11b3ba20800000000000000
+      internalID: 3076997703811993363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 59
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0586025fef26fe0800000000000000
+      internalID: -1197114222162980620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 73
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28b61e2b2ea6f410800000000000000
+      internalID: 1510586225509447727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 66
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c089cefeabf21fa90800000000000000
+      internalID: -7281986642545698804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 59
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a3376dfc80f2b90800000000000000
+      internalID: -7264577985176192403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 73
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb157b7ea6bebbb0800000000000000
+      internalID: -4918292882530165837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 66
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8df7999935de420800000000000000
+      internalID: 2660874874016225509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 59
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2922d09816915a70800000000000000
+      internalID: 8813990977993845039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 73
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e956582026d6384f0800000000000000
+      internalID: -827697638789519970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 65
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e4645eb43dcfc00800000000000000
+      internalID: 935855145508818462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 58
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0966580ada73470800000000000000
+      internalID: 8374352937063190728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_50
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 73
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9378ce8dec9ed70800000000000000
+      internalID: 9073010355391117765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_51
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 66
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014616b8d02f35fd0800000000000000
+      internalID: -2354272040197725168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_52
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 59
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6078a6672a56cc0800000000000000
+      internalID: -3718387287847401775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 73
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c73b9af2984c5f0800000000000000
+      internalID: -737313601178338284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 44
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea8e630c16cf8a20800000000000000
+      internalID: 3066887694881557221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 44
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e530734aa29203e80800000000000000
+      internalID: -8201009658321239202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_56
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 44
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7ef7e3a8d274a80800000000000000
+      internalID: -8482761301351733273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 44
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6cbfcd4c4fe0c90800000000000000
+      internalID: -7201549627760589083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Path-and-Road-Top-Down-Pixel-Tileset4-1536x1024 (1)_58
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 44
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95413b9b7c2ad6be0800000000000000
+      internalID: -1482349723637312423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
