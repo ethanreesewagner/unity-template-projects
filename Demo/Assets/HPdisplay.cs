@@ -1,28 +1,26 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class HUD : MonoBehaviour
+public class HPdisplay : MonoBehaviour
 {
     [SerializeField] private PlayerHealth playerHealth;
     [SerializeField] private EnemyLogic enemyLogic;
     [SerializeField] private Text playerHealthText;
     [SerializeField] private Text enemyHealthText;
-    [SerializeField] private Text instructionsText;
 
     private string _playerHealthLabel = "Player HP: N/A";
     private string _enemyHealthLabel = "Enemy HP: N/A";
-    private readonly string _instructionLabel = "Press Q to attack";
 
     private void Awake()
     {
-        EnsurePlayerHealthAndAttack();
+        EnsurePlayerHealth();
 
         if (enemyLogic == null)
         {
             enemyLogic = FindObjectOfType<EnemyLogic>();
         }
 
-        if (playerHealthText == null || enemyHealthText == null || instructionsText == null)
+        if (playerHealthText == null || enemyHealthText == null)
         {
             var texts = GetComponentsInChildren<Text>();
             foreach (var text in texts)
@@ -36,11 +34,6 @@ public class HUD : MonoBehaviour
                 {
                     enemyHealthText = text;
                 }
-
-                if (instructionsText == null && text.name.ToLower().Contains("instruction"))
-                {
-                    instructionsText = text;
-                }
             }
         }
     }
@@ -49,7 +42,7 @@ public class HUD : MonoBehaviour
     {
         if (playerHealth == null)
         {
-            EnsurePlayerHealthAndAttack();
+            EnsurePlayerHealth();
         }
 
         if (playerHealth != null)
@@ -79,14 +72,9 @@ public class HUD : MonoBehaviour
         {
             enemyHealthText.text = _enemyHealthLabel;
         }
-
-        if (instructionsText != null)
-        {
-            instructionsText.text = _instructionLabel;
-        }
     }
 
-    private void EnsurePlayerHealthAndAttack()
+    private void EnsurePlayerHealth()
     {
         if (playerHealth != null)
         {
@@ -114,17 +102,11 @@ public class HUD : MonoBehaviour
         {
             playerHealth = playerObject.AddComponent<PlayerHealth>();
         }
-
-        var attacking = playerObject.GetComponent<Attacking>();
-        if (attacking == null)
-        {
-            playerObject.AddComponent<Attacking>();
-        }
     }
 
     private void OnGUI()
     {
-        if (playerHealthText != null && enemyHealthText != null && instructionsText != null)
+        if (playerHealthText != null && enemyHealthText != null)
         {
             return;
         }
@@ -142,6 +124,5 @@ public class HUD : MonoBehaviour
 
         GUI.Label(new Rect(x, y, 300, lineHeight), _playerHealthLabel, style);
         GUI.Label(new Rect(x, y + lineHeight, 300, lineHeight), _enemyHealthLabel, style);
-        GUI.Label(new Rect(x, y + lineHeight * 2, 300, lineHeight), _instructionLabel, style);
     }
 }
