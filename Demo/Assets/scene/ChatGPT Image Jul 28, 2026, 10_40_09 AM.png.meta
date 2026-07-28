@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f401dca5f72ba7e49967f413a5c89b16
+guid: d9508791e61895747b263f1ff6ba535a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4712333646481324289
-    second: villagerswithbgremoved (4)_0
+      213: -2076232732672176676
+    second: ChatGPT Image Jul 28, 2026, 10_40_09 AM_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: villagerswithbgremoved (4)_0
+      name: ChatGPT Image Jul 28, 2026, 10_40_09 AM_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 5
-        width: 159
-        height: 195
+        x: 0
+        y: 0
+        width: 1254
+        height: 1254
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,8 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff60c5af38d6a9eb0800000000000000
-      internalID: -4712333646481324289
+      spriteID: cdd490a745dbf23e0800000000000000
+      internalID: -2076232732672176676
       vertices: []
       indices: 
       edges: []
@@ -140,8 +140,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      villagerswithbgremoved (4)_0: -4712333646481324289
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
