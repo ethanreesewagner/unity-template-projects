@@ -5,8 +5,8 @@ public class Lighting : MonoBehaviour
 {
     [Header("Night settings")]
     [SerializeField] private float globalLightIntensity = 0.22f;
-    [SerializeField] private Color globalLightColor = new Color(0.12f, 0.18f, 0.35f, 1f);
-    [SerializeField] private Color cameraBackgroundColor = new Color(0.04f, 0.06f, 0.12f, 1f);
+    [SerializeField] private Color globalLightColor = new Color(0.06f, 0.10f, 0.25f, 0.75f);
+    [SerializeField] private Color cameraBackgroundColor = new Color(0.03f, 0.05f, 0.18f, 0.75f);
     [SerializeField] private Color playerLightColor = new Color(0.95f, 0.82f, 0.42f, 1f);
     [SerializeField] private float playerLightRadius = 3.5f;
     [SerializeField] private float playerLightInnerRadius = 0.8f;
