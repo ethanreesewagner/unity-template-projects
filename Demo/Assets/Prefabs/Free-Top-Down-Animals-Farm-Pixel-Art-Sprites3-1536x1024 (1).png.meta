@@ -1,0 +1,4224 @@
+fileFormatVersion: 2
+guid: a77349caacff85a408285f484db0262f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9153702632610096898
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_0
+  - first:
+      213: -7139738213412006373
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_1
+  - first:
+      213: -6899995603308833445
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_2
+  - first:
+      213: -935135818988283569
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_3
+  - first:
+      213: -8929991104129038117
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_4
+  - first:
+      213: -2118134488465918562
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_5
+  - first:
+      213: -5188167829784953330
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_6
+  - first:
+      213: 6179568337650381300
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_7
+  - first:
+      213: 494650734216579948
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_8
+  - first:
+      213: -3672489326489078203
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_9
+  - first:
+      213: 5501394755175626741
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_10
+  - first:
+      213: 390027107552180757
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_11
+  - first:
+      213: 4889248203000792323
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_12
+  - first:
+      213: -5677159540372096078
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_13
+  - first:
+      213: -2108014172412211882
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_14
+  - first:
+      213: -6821987148956626638
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_15
+  - first:
+      213: -1170227385752000223
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_16
+  - first:
+      213: 5087441245028476906
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_17
+  - first:
+      213: -6566961199577917141
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_18
+  - first:
+      213: -7909713961624846313
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_19
+  - first:
+      213: -5306412932853283133
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_20
+  - first:
+      213: -6357286632027019947
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_21
+  - first:
+      213: -3036848452651210626
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_22
+  - first:
+      213: -4052064230620145370
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_23
+  - first:
+      213: -3098573671668503280
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_24
+  - first:
+      213: 1641387135987544730
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_25
+  - first:
+      213: -2154767497551076656
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_26
+  - first:
+      213: 4570624031875350271
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_27
+  - first:
+      213: 6389183550883535779
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_28
+  - first:
+      213: 5493380047074597463
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_29
+  - first:
+      213: -7749643897816523992
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_30
+  - first:
+      213: 3022158828949193558
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_31
+  - first:
+      213: 2960909598437981855
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_32
+  - first:
+      213: 7493976322952250475
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_33
+  - first:
+      213: 8081392141637580144
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_34
+  - first:
+      213: 239848678807051525
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_35
+  - first:
+      213: 6995294883650657700
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_36
+  - first:
+      213: 5311377076052258345
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_37
+  - first:
+      213: 1164452661056894254
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_38
+  - first:
+      213: -6869448677763897549
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_39
+  - first:
+      213: -3018601683205309567
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_40
+  - first:
+      213: -7942219887049538379
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_41
+  - first:
+      213: -4761707816137744704
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_42
+  - first:
+      213: -3520926759954477123
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_43
+  - first:
+      213: 3836738682510467988
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_44
+  - first:
+      213: 5413618097380231862
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_45
+  - first:
+      213: 207401734166252103
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_46
+  - first:
+      213: 6631110984496940157
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_47
+  - first:
+      213: -5027529455811862557
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_48
+  - first:
+      213: -6338673962145653659
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_49
+  - first:
+      213: 3718326913150633035
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_50
+  - first:
+      213: 8731048086320527447
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_51
+  - first:
+      213: 3877181069347585509
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_52
+  - first:
+      213: -1609079419420943187
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_53
+  - first:
+      213: -8668089073195899408
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_54
+  - first:
+      213: -491427316398365929
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_55
+  - first:
+      213: 8990907627175071824
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_56
+  - first:
+      213: -4392851104829913233
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_57
+  - first:
+      213: -8017217982174416015
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_58
+  - first:
+      213: 1822488211340967433
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_59
+  - first:
+      213: 6748828061453413881
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_60
+  - first:
+      213: -8576677447511228083
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_61
+  - first:
+      213: 9102330088615698573
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_62
+  - first:
+      213: -5638447529931570752
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_63
+  - first:
+      213: -3351590453963593221
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_64
+  - first:
+      213: -6305744747719820559
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_65
+  - first:
+      213: 6797027961007638483
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_66
+  - first:
+      213: -1300915576726337650
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_67
+  - first:
+      213: -1349615732904471112
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_68
+  - first:
+      213: 8586430081638032989
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_69
+  - first:
+      213: 4809336778900750260
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_70
+  - first:
+      213: 3371979192146945891
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_71
+  - first:
+      213: 1745676348848050081
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_72
+  - first:
+      213: 1202459849541150104
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_73
+  - first:
+      213: -295092271372338341
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_74
+  - first:
+      213: 6056485684469893619
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_75
+  - first:
+      213: 5294074129584649237
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_76
+  - first:
+      213: 3660208647260061777
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_77
+  - first:
+      213: -8545414722920347596
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_78
+  - first:
+      213: -8299020976406342441
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_79
+  - first:
+      213: 2641643384613650754
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_80
+  - first:
+      213: -3212408693873485504
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_81
+  - first:
+      213: -7796736580360918694
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_82
+  - first:
+      213: -1604031077925904594
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_83
+  - first:
+      213: -1632904254953604821
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_84
+  - first:
+      213: -3502006347200189287
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_85
+  - first:
+      213: -3386857135633148719
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_86
+  - first:
+      213: -8273180625468102427
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_87
+  - first:
+      213: -4586617463285097470
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_88
+  - first:
+      213: 3159469110761412660
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_89
+  - first:
+      213: -6995586397133877570
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_90
+  - first:
+      213: 7695406253758495235
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_91
+  - first:
+      213: -3357025618743269248
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_92
+  - first:
+      213: 2210184536999189709
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_93
+  - first:
+      213: 8551305225022222099
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_94
+  - first:
+      213: 4776371987746526041
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_95
+  - first:
+      213: 445089325284969754
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_96
+  - first:
+      213: -672801929015169560
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_97
+  - first:
+      213: 6018123027358551643
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_98
+  - first:
+      213: -1525790302421615660
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_99
+  - first:
+      213: 5549254906445035395
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_100
+  - first:
+      213: 670394537245389253
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_101
+  - first:
+      213: -4696690285918265634
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_102
+  - first:
+      213: -3553605039397368671
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_103
+  - first:
+      213: -291518824023566045
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_104
+  - first:
+      213: -2024845962441548226
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_105
+  - first:
+      213: -8436629827578064916
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_106
+  - first:
+      213: 2633368946258311007
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_107
+  - first:
+      213: -7536482932973772137
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_108
+  - first:
+      213: 637527655882056654
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_109
+  - first:
+      213: -7987383427062805978
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_110
+  - first:
+      213: -8072175435136594482
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_111
+  - first:
+      213: 5233426559273564870
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_112
+  - first:
+      213: -5099286041256188300
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_113
+  - first:
+      213: 4452166884131813588
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_114
+  - first:
+      213: -1748178863147877451
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_115
+  - first:
+      213: 8386176297497633336
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_116
+  - first:
+      213: -295838118620611226
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_117
+  - first:
+      213: -4943590646809343732
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_118
+  - first:
+      213: 2397321536750746056
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_119
+  - first:
+      213: -4020774012419897018
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_120
+  - first:
+      213: 8466291127411919799
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_121
+  - first:
+      213: -6159207755443410373
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_122
+  - first:
+      213: -834459306577584179
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_123
+  - first:
+      213: 3654492178777134947
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_124
+  - first:
+      213: 5782918326337511065
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_125
+  - first:
+      213: 315878491571581614
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_126
+  - first:
+      213: 2447676384771342685
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_127
+  - first:
+      213: -8967330671405936256
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_128
+  - first:
+      213: 6570821039966603778
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_129
+  - first:
+      213: 1994075009479830030
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_130
+  - first:
+      213: 8738629265189350398
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_131
+  - first:
+      213: 7904891522149277609
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_132
+  - first:
+      213: -2564177810468003531
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_133
+  - first:
+      213: -3901443576837848631
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_134
+  - first:
+      213: 5293783859305639199
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_135
+  - first:
+      213: -701292245024054046
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_136
+  - first:
+      213: 1124784475276543583
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_137
+  - first:
+      213: -688140650514045020
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_138
+  - first:
+      213: -253496217929867366
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_139
+  - first:
+      213: 1004347313073600029
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_140
+  - first:
+      213: -3409178555720638735
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_141
+  - first:
+      213: 1776290946400010697
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_142
+  - first:
+      213: 7285179733853452185
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_143
+  - first:
+      213: -9209032875644966892
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_144
+  - first:
+      213: -508472463008026167
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_145
+  - first:
+      213: 4499414418984959787
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_146
+  - first:
+      213: -4460659844199235392
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_147
+  - first:
+      213: -985792727471528801
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_148
+  - first:
+      213: 8977968838567057124
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_149
+  - first:
+      213: 7134451289384285792
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_150
+  - first:
+      213: -6888217780113513832
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_151
+  - first:
+      213: -6697123457923516518
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_152
+  - first:
+      213: -6972001485676294395
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_153
+  - first:
+      213: 4997054562594055509
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_154
+  - first:
+      213: -5288480802949518656
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_155
+  - first:
+      213: 85662192534169375
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_156
+  - first:
+      213: -8580051504592331714
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_157
+  - first:
+      213: -8547839413480520642
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_158
+  - first:
+      213: -7068027894411161449
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_159
+  - first:
+      213: 4562535497327898977
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_160
+  - first:
+      213: -1586070916820868837
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_161
+  - first:
+      213: -40799749446623157
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_162
+  - first:
+      213: -8844323677517881796
+    second: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_163
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 272
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef897bb34f387f080800000000000000
+      internalID: -9153702632610096898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 912
+        width: 272
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b169b404ced8aec90800000000000000
+      internalID: -7139738213412006373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 845
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5515097e8a4e30a0800000000000000
+      internalID: -6899995603308833445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 844
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49957c5deab503f0800000000000000
+      internalID: -935135818988283569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 845
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd88df6676c421480800000000000000
+      internalID: -8929991104129038117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 845
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e953c74b7efda92e0800000000000000
+      internalID: -2118134488465918562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 843
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0efe8ec8dceff7b0800000000000000
+      internalID: -5188167829784953330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 845
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1f6ee89ac32c550800000000000000
+      internalID: 6179568337650381300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 844
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b8dd4d83a5dd600800000000000000
+      internalID: 494650734216579948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 845
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546743d4a62b80dc0800000000000000
+      internalID: -3672489326489078203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 845
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7b077d161e85c40800000000000000
+      internalID: 5501394755175626741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 844
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51abb6e7697a96500800000000000000
+      internalID: 390027107552180757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 850
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305449616591ad340800000000000000
+      internalID: 4889248203000792323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 850
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbb6e61a7da631b0800000000000000
+      internalID: -5677159540372096078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 850
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d81e76744deb2e0800000000000000
+      internalID: -2108014172412211882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 850
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231192c15de6351a0800000000000000
+      internalID: -6821987148956626638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 850
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12961dd846482cfe0800000000000000
+      internalID: -1170227385752000223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 850
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7e791abd83a9640800000000000000
+      internalID: 5087441245028476906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 850
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29926d05977dd4a0800000000000000
+      internalID: -6566961199577917141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 850
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71047623f0d0b3290800000000000000
+      internalID: -7909713961624846313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 850
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6cdb95d85db56b0800000000000000
+      internalID: -5306412932853283133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 850
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555a0b29d7166c7a0800000000000000
+      internalID: -6357286632027019947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 755
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78a7071c62fad5d0800000000000000
+      internalID: -3036848452651210626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 756
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629d1de0d0d24c7c0800000000000000
+      internalID: -4052064230620145370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 755
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d22dd99a7aff4d0800000000000000
+      internalID: -3098573671668503280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 755
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92fe6b57e067c610800000000000000
+      internalID: 1641387135987544730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 754
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d229ee906ab812e0800000000000000
+      internalID: -2154767497551076656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 755
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe3bcd375e1e6f30800000000000000
+      internalID: 4570624031875350271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 756
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab9e239690faa850800000000000000
+      internalID: 6389183550883535779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 755
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a99123c086c3c40800000000000000
+      internalID: 5493380047074597463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 755
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b5fde2febb37490800000000000000
+      internalID: -7749643897816523992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 755
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653c35e517dd0f920800000000000000
+      internalID: 3022158828949193558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 778
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eb0fa9793471920800000000000000
+      internalID: 2960909598437981855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 778
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64c1ccc2c3fff760800000000000000
+      internalID: 7493976322952250475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 778
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075f0f4f55fd62070800000000000000
+      internalID: 8081392141637580144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 778
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d14244a1d145300800000000000000
+      internalID: 239848678807051525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 778
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adda1f42a7441160800000000000000
+      internalID: 6995294883650657700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 778
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e6f3e4f4dc5b940800000000000000
+      internalID: 5311377076052258345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 778
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25fd049687f82010800000000000000
+      internalID: 1164452661056894254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 778
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3372b1fc2d0daa0a0800000000000000
+      internalID: -6869448677763897549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 779
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bb62a23c5cb16d0800000000000000
+      internalID: -3018601683205309567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 778
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b48e58a71197c190800000000000000
+      internalID: -7942219887049538379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 666
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce98e648f30bedb0800000000000000
+      internalID: -4761707816137744704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 666
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf0fb834c7232fc0800000000000000
+      internalID: -3520926759954477123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 666
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493690bf085de3530800000000000000
+      internalID: 3836738682510467988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 666
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba89fb1af8012b40800000000000000
+      internalID: 5413618097380231862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 666
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a87c247c6d0e200800000000000000
+      internalID: 207401734166252103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 666
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d748129ae40760c50800000000000000
+      internalID: 6631110984496940157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 666
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef5580d890aa3ab0800000000000000
+      internalID: -5027529455811862557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 666
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c5a4b7d918808a0800000000000000
+      internalID: -6338673962145653659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_50
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 666
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b444e1180a62a9330800000000000000
+      internalID: 3718326913150633035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_51
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 666
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7583df5b9f9ea2970800000000000000
+      internalID: 8731048086320527447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_52
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 705
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edf450f3a38ec530800000000000000
+      internalID: 3877181069347585509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 705
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacd5061bc66ba9e0800000000000000
+      internalID: -1609079419420943187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 705
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5a6b6d9e2c4b780800000000000000
+      internalID: -8668089073195899408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 705
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713e62d95791e29f0800000000000000
+      internalID: -491427316398365929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_56
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 705
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050de1ed9de16cc70800000000000000
+      internalID: 8990907627175071824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 705
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f674e69c1357903c0800000000000000
+      internalID: -4392851104829913233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_58
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 705
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173be95e8be1db090800000000000000
+      internalID: -8017217982174416015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_59
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 705
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90eb05c4f57ca4910800000000000000
+      internalID: 1822488211340967433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_60
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 705
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd6e157d57a8ad50800000000000000
+      internalID: 6748828061453413881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_61
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 705
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d414dfb7d4589f880800000000000000
+      internalID: -8576677447511228083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_62
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 633
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80e9484df8f15e70800000000000000
+      internalID: 9102330088615698573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_63
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 633
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c100c568d530c1b0800000000000000
+      internalID: -5638447529931570752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_64
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 633
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9e8e65d32cc71d0800000000000000
+      internalID: -3351590453963593221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_65
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 633
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faffdbaf8e7d78a0800000000000000
+      internalID: -6305744747719820559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_66
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 633
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d702481be4e35e50800000000000000
+      internalID: 6797027961007638483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_67
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 633
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87447eec2832fde0800000000000000
+      internalID: -1300915576726337650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_68
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 633
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b553f834a3354de0800000000000000
+      internalID: -1349615732904471112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_69
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 633
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5663c89aa0292770800000000000000
+      internalID: 8586430081638032989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_70
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 634
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfb997c1523eb240800000000000000
+      internalID: 4809336778900750260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_71
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 633
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3676de1b53dabce20800000000000000
+      internalID: 3371979192146945891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_72
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 577
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af83e9e363e93810800000000000000
+      internalID: 1745676348848050081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 577
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895e19cbcdeffa010800000000000000
+      internalID: 1202459849541150104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_74
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 577
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b73e4842f97ebf0800000000000000
+      internalID: -295092271372338341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_75
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 577
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9011234a5fc0450800000000000000
+      internalID: 6056485684469893619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_76
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 577
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5147a742f54587940800000000000000
+      internalID: 5294074129584649237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_77
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 578
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150cfbf3f5cabc230800000000000000
+      internalID: 3660208647260061777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_78
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 578
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43880f5c596986980800000000000000
+      internalID: -8545414722920347596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_79
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 577
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4d8cd5464f3dc80800000000000000
+      internalID: -8299020976406342441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_80
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 578
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241482b89a009a420800000000000000
+      internalID: 2641643384613650754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_81
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 577
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0495b40205b3b63d0800000000000000
+      internalID: -3212408693873485504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 437
+        width: 272
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a592b48936d6cc390800000000000000
+      internalID: -7796736580360918694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_83
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 437
+        width: 272
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f1a8fab365db9e0800000000000000
+      internalID: -1604031077925904594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_84
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 369
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29344b4b32c659e0800000000000000
+      internalID: -1632904254953604821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_85
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 369
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c28f918cf566fc0800000000000000
+      internalID: -3502006347200189287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_86
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 369
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4d69521677ff0d0800000000000000
+      internalID: -3386857135633148719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_87
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 370
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e86458ed02cf2d80800000000000000
+      internalID: -8273180625468102427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_88
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 370
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cd944d7bf0950c0800000000000000
+      internalID: -4586617463285097470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_89
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 369
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438d0c9aa60b8db20800000000000000
+      internalID: 3159469110761412660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_90
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 369
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebec74b6c3faaee90800000000000000
+      internalID: -6995586397133877570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_91
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 369
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a389d37339bca60800000000000000
+      internalID: 7695406253758495235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_92
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 369
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088ebec6cf27961d0800000000000000
+      internalID: -3357025618743269248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_93
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 369
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccd5e750272cae10800000000000000
+      internalID: 2210184536999189709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_94
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 379
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f246f9bc65ca670800000000000000
+      internalID: 8551305225022222099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_95
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 378
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95312cc3405194240800000000000000
+      internalID: 4776371987746526041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_96
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 379
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dcde612664d2600800000000000000
+      internalID: 445089325284969754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_97
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 378
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed6ad0d53ab9a6f0800000000000000
+      internalID: -672801929015169560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_98
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 378
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e0e4c020ba48350800000000000000
+      internalID: 6018123027358551643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_99
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 378
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db7c6ecdcd43dae0800000000000000
+      internalID: -1525790302421615660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_100
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 379
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387ffbaafe9e20d40800000000000000
+      internalID: 5549254906445035395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_101
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 378
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1bfdb9748bd4900800000000000000
+      internalID: 670394537245389253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_102
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 379
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede50dfa11102deb0800000000000000
+      internalID: -4696690285918265634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_103
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 379
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac8ea26b0f0faec0800000000000000
+      internalID: -3553605039397368671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_104
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 289
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3295cb09c2154fbf0800000000000000
+      internalID: -291518824023566045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_105
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e99c3435d46e3e0800000000000000
+      internalID: -2024845962441548226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_106
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 289
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef8eb9fed11bea80800000000000000
+      internalID: -8436629827578064916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_107
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 289
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57754cba1b9b8420800000000000000
+      internalID: 2633368946258311007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_108
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 289
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792ed44d3b8096790800000000000000
+      internalID: -7536482932973772137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_109
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 289
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec366577604f8d800800000000000000
+      internalID: 637527655882056654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_110
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 289
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a4411971d172190800000000000000
+      internalID: -7987383427062805978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_111
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 289
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd8c00c53fd9ff80800000000000000
+      internalID: -8072175435136594482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_112
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 289
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca789f4abdd0a840800000000000000
+      internalID: 5233426559273564870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_113
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 289
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47621d6dc52bb39b0800000000000000
+      internalID: -5099286041256188300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_114
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 316
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d83f69413649cd30800000000000000
+      internalID: 4452166884131813588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_115
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 315
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb793216983db7e0800000000000000
+      internalID: -1748178863147877451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_116
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 315
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832a52429eea16470800000000000000
+      internalID: 8386176297497633336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_117
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 315
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d399c6cc8f4ebf0800000000000000
+      internalID: -295838118620611226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_118
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 315
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c094cfdbf76d46bb0800000000000000
+      internalID: -4943590646809343732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_119
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 315
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9fb627c3ff44120800000000000000
+      internalID: 2397321536750746056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_120
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 315
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6490793b6575338c0800000000000000
+      internalID: -4020774012419897018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_121
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 315
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbcd6e8cee4e7570800000000000000
+      internalID: 8466291127411919799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_122
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 316
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ae6f6ed29168aa0800000000000000
+      internalID: -6159207755443410373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_123
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 316
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf9ceb8ea76b64f0800000000000000
+      internalID: -834459306577584179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_124
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 252
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3675476364d57b230800000000000000
+      internalID: 3654492178777134947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_125
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 253
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e917e149d014050800000000000000
+      internalID: 5782918326337511065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_126
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 253
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea27f4280d9326400800000000000000
+      internalID: 315878491571581614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_127
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 252
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51886f14b4e7f120800000000000000
+      internalID: 2447676384771342685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_128
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 253
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081526be344ad8380800000000000000
+      internalID: -8967330671405936256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_129
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 253
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a4fd11cee303b50800000000000000
+      internalID: 6570821039966603778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_130
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 253
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a6783f7a06cab10800000000000000
+      internalID: 1994075009479830030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_131
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 253
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efba1777409d54970800000000000000
+      internalID: 8738629265189350398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_132
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 253
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af54bd15f0d3bd60800000000000000
+      internalID: 7904891522149277609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_133
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 254
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531ad12fdd53a6cd0800000000000000
+      internalID: -2564177810468003531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_134
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 202
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1c953dcb94bd9c0800000000000000
+      internalID: -3901443576837848631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_135
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 202
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1deb935f5c477940800000000000000
+      internalID: 5293783859305639199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 202
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4ea933b628446f0800000000000000
+      internalID: -701292245024054046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_137
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 202
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f568bb955890c9f00800000000000000
+      internalID: 1124784475276543583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_138
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 202
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7aa9a69bb3376f0800000000000000
+      internalID: -688140650514045020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_139
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 202
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f926a68866b7cf0800000000000000
+      internalID: -253496217929867366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_140
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 202
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16beda5f8820fd00800000000000000
+      internalID: 1004347313073600029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_141
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 202
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe546a8a2a20b0d0800000000000000
+      internalID: -3409178555720638735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_142
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 202
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c14aed5437a6a810800000000000000
+      internalID: 1776290946400010697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_143
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 202
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997b5319e582a1560800000000000000
+      internalID: 7285179733853452185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_144
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 189
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418a9422461f23080800000000000000
+      internalID: -9209032875644966892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_145
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 189
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1b6582dfa81f8f0800000000000000
+      internalID: -508472463008026167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_146
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 189
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f7edc3391217e30800000000000000
+      internalID: 4499414418984959787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_147
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 189
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0c7aa518d8812c0800000000000000
+      internalID: -4460659844199235392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_148
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 189
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9465e0ccb2c152f0800000000000000
+      internalID: -985792727471528801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_149
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 189
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6d0536717289c70800000000000000
+      internalID: 8977968838567057124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_150
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 189
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066f313d5a9a20360800000000000000
+      internalID: 7134451289384285792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_151
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 190
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892edc0ac622860a0800000000000000
+      internalID: -6888217780113513832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_152
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 190
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a977889a2b90f03a0800000000000000
+      internalID: -6697123457923516518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_153
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 190
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fc4c886997e3f90800000000000000
+      internalID: -6972001485676294395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_154
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 113
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555e9ae26aa195540800000000000000
+      internalID: 4997054562594055509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_155
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 114
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caa8b2baba8b96b0800000000000000
+      internalID: -5288480802949518656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_156
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 114
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f172eac6f45503100800000000000000
+      internalID: 85662192534169375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_157
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 114
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cd73a9d988de880800000000000000
+      internalID: -8580051504592331714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_158
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 114
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3409628759ff5980800000000000000
+      internalID: -8547839413480520642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_159
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 114
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790121bf31259ed90800000000000000
+      internalID: -7068027894411161449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_160
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 114
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161f6598cd1615f30800000000000000
+      internalID: 4562535497327898977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_161
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 113
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11605e87e42df9e0800000000000000
+      internalID: -1586070916820868837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_162
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 113
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b402f4318dc0f6ff0800000000000000
+      internalID: -40799749446623157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_163
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 114
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e58fa7976a24580800000000000000
+      internalID: -8844323677517881796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_0: -9153702632610096898
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_1: -7139738213412006373
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_10: 5501394755175626741
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_100: 5549254906445035395
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_101: 670394537245389253
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_102: -4696690285918265634
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_103: -3553605039397368671
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_104: -291518824023566045
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_105: -2024845962441548226
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_106: -8436629827578064916
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_107: 2633368946258311007
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_108: -7536482932973772137
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_109: 637527655882056654
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_11: 390027107552180757
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_110: -7987383427062805978
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_111: -8072175435136594482
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_112: 5233426559273564870
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_113: -5099286041256188300
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_114: 4452166884131813588
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_115: -1748178863147877451
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_116: 8386176297497633336
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_117: -295838118620611226
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_118: -4943590646809343732
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_119: 2397321536750746056
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_12: 4889248203000792323
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_120: -4020774012419897018
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_121: 8466291127411919799
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_122: -6159207755443410373
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_123: -834459306577584179
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_124: 3654492178777134947
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_125: 5782918326337511065
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_126: 315878491571581614
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_127: 2447676384771342685
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_128: -8967330671405936256
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_129: 6570821039966603778
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_13: -5677159540372096078
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_130: 1994075009479830030
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_131: 8738629265189350398
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_132: 7904891522149277609
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_133: -2564177810468003531
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_134: -3901443576837848631
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_135: 5293783859305639199
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_136: -701292245024054046
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_137: 1124784475276543583
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_138: -688140650514045020
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_139: -253496217929867366
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_14: -2108014172412211882
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_140: 1004347313073600029
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_141: -3409178555720638735
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_142: 1776290946400010697
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_143: 7285179733853452185
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_144: -9209032875644966892
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_145: -508472463008026167
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_146: 4499414418984959787
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_147: -4460659844199235392
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_148: -985792727471528801
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_149: 8977968838567057124
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_15: -6821987148956626638
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_150: 7134451289384285792
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_151: -6888217780113513832
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_152: -6697123457923516518
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_153: -6972001485676294395
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_154: 4997054562594055509
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_155: -5288480802949518656
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_156: 85662192534169375
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_157: -8580051504592331714
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_158: -8547839413480520642
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_159: -7068027894411161449
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_16: -1170227385752000223
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_160: 4562535497327898977
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_161: -1586070916820868837
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_162: -40799749446623157
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_163: -8844323677517881796
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_17: 5087441245028476906
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_18: -6566961199577917141
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_19: -7909713961624846313
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_2: -6899995603308833445
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_20: -5306412932853283133
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_21: -6357286632027019947
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_22: -3036848452651210626
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_23: -4052064230620145370
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_24: -3098573671668503280
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_25: 1641387135987544730
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_26: -2154767497551076656
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_27: 4570624031875350271
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_28: 6389183550883535779
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_29: 5493380047074597463
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_3: -935135818988283569
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_30: -7749643897816523992
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_31: 3022158828949193558
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_32: 2960909598437981855
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_33: 7493976322952250475
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_34: 8081392141637580144
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_35: 239848678807051525
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_36: 6995294883650657700
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_37: 5311377076052258345
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_38: 1164452661056894254
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_39: -6869448677763897549
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_4: -8929991104129038117
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_40: -3018601683205309567
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_41: -7942219887049538379
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_42: -4761707816137744704
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_43: -3520926759954477123
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_44: 3836738682510467988
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_45: 5413618097380231862
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_46: 207401734166252103
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_47: 6631110984496940157
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_48: -5027529455811862557
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_49: -6338673962145653659
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_5: -2118134488465918562
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_50: 3718326913150633035
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_51: 8731048086320527447
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_52: 3877181069347585509
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_53: -1609079419420943187
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_54: -8668089073195899408
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_55: -491427316398365929
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_56: 8990907627175071824
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_57: -4392851104829913233
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_58: -8017217982174416015
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_59: 1822488211340967433
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_6: -5188167829784953330
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_60: 6748828061453413881
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_61: -8576677447511228083
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_62: 9102330088615698573
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_63: -5638447529931570752
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_64: -3351590453963593221
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_65: -6305744747719820559
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_66: 6797027961007638483
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_67: -1300915576726337650
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_68: -1349615732904471112
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_69: 8586430081638032989
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_7: 6179568337650381300
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_70: 4809336778900750260
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_71: 3371979192146945891
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_72: 1745676348848050081
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_73: 1202459849541150104
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_74: -295092271372338341
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_75: 6056485684469893619
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_76: 5294074129584649237
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_77: 3660208647260061777
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_78: -8545414722920347596
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_79: -8299020976406342441
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_8: 494650734216579948
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_80: 2641643384613650754
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_81: -3212408693873485504
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_82: -7796736580360918694
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_83: -1604031077925904594
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_84: -1632904254953604821
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_85: -3502006347200189287
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_86: -3386857135633148719
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_87: -8273180625468102427
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_88: -4586617463285097470
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_89: 3159469110761412660
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_9: -3672489326489078203
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_90: -6995586397133877570
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_91: 7695406253758495235
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_92: -3357025618743269248
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_93: 2210184536999189709
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_94: 8551305225022222099
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_95: 4776371987746526041
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_96: 445089325284969754
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_97: -672801929015169560
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_98: 6018123027358551643
+      Free-Top-Down-Animals-Farm-Pixel-Art-Sprites3-1536x1024 (1)_99: -1525790302421615660
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

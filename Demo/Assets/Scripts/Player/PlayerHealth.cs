@@ -7,7 +7,7 @@ using UnityEngine;
 public class PlayerHealth : MonoBehaviour, IDamageable
 {
     [SerializeField] private float _health;
-    [SerializeField] private float _maxHealth = 100f;
+    [SerializeField] private float _maxHealth = 30f;
     [SerializeField] private float _regenAmount = 4f;
     [SerializeField] private float _regenDelay = 1.5f;
     [SerializeField] private float _regenInterval = 1f;
