@@ -15,6 +15,7 @@ public class EnemyLogic : MonoBehaviour, IDamageable
     private Rigidbody2D _rb;
     private Transform _player;
     private IDamageable _playerDamageable;
+    private PlayerHealth _playerHealth;
     private SpriteRenderer _spriteRenderer;
     private float _nextAttackTime;
     private float _currentHealth;
@@ -32,16 +33,10 @@ public class EnemyLogic : MonoBehaviour, IDamageable
         maxHealth = Mathf.Max(maxHealth, 120f);
         _currentHealth = maxHealth;
         _spriteRenderer = GetComponent<SpriteRenderer>();
-        _player = FindPlayerTransform();
+        FindPlayerReference();
 
         if (_player != null)
         {
-            _playerDamageable = _player.GetComponent<IDamageable>();
-            if (_playerDamageable == null)
-            {
-                _playerDamageable = _player.GetComponentInChildren<IDamageable>();
-            }
-
             var playerMovement = _player.GetComponent<TopDownMovement>();
             if (playerMovement != null && chaseSpeed <= 0f)
             {
@@ -77,31 +72,60 @@ public class EnemyLogic : MonoBehaviour, IDamageable
 
         if (!gameObject.CompareTag("Enemy"))
         {
-            gameObject.tag = "Enemy";
+            TrySetTag("Enemy");
         }
     }
 
-    private Transform FindPlayerTransform()
+    private void TrySetTag(string tagName)
     {
+        if (string.IsNullOrEmpty(tagName))
+        {
+            return;
+        }
+
+        try
+        {
+            gameObject.tag = tagName;
+        }
+        catch (System.Exception ex)
+        {
+            Debug.LogWarning($"Could not assign tag '{tagName}' to '{gameObject.name}': {ex.Message}");
+        }
+    }
+
+    private void FindPlayerReference()
+    {
+        _player = null;
+        _playerDamageable = null;
+        _playerHealth = null;
+
         var playerObject = GameObject.FindGameObjectWithTag("Player");
+        if (playerObject == null)
+        {
+            playerObject = FindObjectOfType<PlayerHealth>()?.gameObject;
+        }
+
+        if (playerObject == null)
+        {
+            playerObject = FindObjectOfType<TopDownMovement>()?.gameObject;
+        }
+
         if (playerObject != null)
         {
-            return playerObject.transform;
-        }
+            _player = playerObject.transform;
+            _playerHealth = playerObject.GetComponent<PlayerHealth>();
+            _playerDamageable = _playerHealth as IDamageable;
 
-        var playerHealth = FindObjectOfType<PlayerHealth>();
-        if (playerHealth != null)
-        {
-            return playerHealth.transform;
-        }
+            if (_playerDamageable == null)
+            {
+                _playerDamageable = playerObject.GetComponent<IDamageable>();
+            }
 
-        var playerMovement = FindObjectOfType<TopDownMovement>();
-        if (playerMovement != null)
-        {
-            return playerMovement.transform;
+            if (_playerDamageable == null)
+            {
+                _playerDamageable = playerObject.GetComponentInChildren<IDamageable>();
+            }
         }
-
-        return null;
     }
 
     private void Update()
@@ -140,9 +164,18 @@ public class EnemyLogic : MonoBehaviour, IDamageable
 
     private void AttackPlayer()
     {
+        if (_player == null)
+        {
+            FindPlayerReference();
+        }
+
         if (_playerDamageable != null)
         {
             _playerDamageable.DealDamage(attackDamage);
+        }
+        else if (_playerHealth != null)
+        {
+            _playerHealth.DealDamage(attackDamage);
         }
         else
         {
@@ -154,6 +187,45 @@ public class EnemyLogic : MonoBehaviour, IDamageable
         }
 
         _nextAttackTime = Time.time + attackCooldown;
+    }
+
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        if (_isDead || _player == null)
+        {
+            return;
+        }
+
+        var playerObject = collision.collider.gameObject;
+        if (playerObject == null)
+        {
+            return;
+        }
+
+        if (playerObject.CompareTag("Player") || playerObject.GetComponent<PlayerHealth>() != null || playerObject.GetComponent<TopDownMovement>() != null)
+        {
+            if (Time.time >= _nextAttackTime)
+            {
+                AttackPlayer();
+            }
+        }
+    }
+
+    private void OnTriggerStay2D(Collider2D other)
+    {
+        if (_isDead || _player == null)
+        {
+            return;
+        }
+
+        var playerObject = other.gameObject;
+        if (playerObject.CompareTag("Player") || playerObject.GetComponent<PlayerHealth>() != null || playerObject.GetComponent<TopDownMovement>() != null)
+        {
+            if (Time.time >= _nextAttackTime)
+            {
+                AttackPlayer();
+            }
+        }
     }
 
     public void DealDamage(float amount)

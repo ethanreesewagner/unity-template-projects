@@ -61,7 +61,24 @@ public class TopDownMovement : MonoBehaviour
 
         if (!gameObject.CompareTag("Player"))
         {
-            gameObject.tag = "Player";
+            TrySetTag("Player");
+        }
+    }
+
+    private void TrySetTag(string tagName)
+    {
+        if (string.IsNullOrEmpty(tagName))
+        {
+            return;
+        }
+
+        try
+        {
+            gameObject.tag = tagName;
+        }
+        catch (System.Exception ex)
+        {
+            Debug.LogWarning($"Could not assign tag '{tagName}' to '{gameObject.name}': {ex.Message}");
         }
     }
 

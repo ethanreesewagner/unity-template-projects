@@ -8,9 +8,11 @@ public class HUD : MonoBehaviour
     [SerializeField] private Text playerHealthText;
     [SerializeField] private Text enemyHealthText;
     [SerializeField] private Text instructionsText;
+    [SerializeField] private Text outcomeText;
 
     private string _playerHealthLabel = "Player HP: N/A";
     private string _enemyHealthLabel = "Enemy HP: N/A";
+    private string _outcomeLabel = string.Empty;
     private readonly string _instructionLabel = "Press Q to attack";
 
     private void Awake()
@@ -22,7 +24,7 @@ public class HUD : MonoBehaviour
             enemyLogic = FindObjectOfType<EnemyLogic>();
         }
 
-        if (playerHealthText == null || enemyHealthText == null || instructionsText == null)
+        if (playerHealthText == null || enemyHealthText == null || instructionsText == null || outcomeText == null)
         {
             var texts = GetComponentsInChildren<Text>();
             foreach (var text in texts)
@@ -40,6 +42,11 @@ public class HUD : MonoBehaviour
                 if (instructionsText == null && text.name.ToLower().Contains("instruction"))
                 {
                     instructionsText = text;
+                }
+
+                if (outcomeText == null && (text.name.ToLower().Contains("result") || text.name.ToLower().Contains("outcome") || text.name.ToLower().Contains("status")))
+                {
+                    outcomeText = text;
                 }
             }
         }
@@ -70,6 +77,19 @@ public class HUD : MonoBehaviour
             _enemyHealthLabel = "Enemy HP: N/A";
         }
 
+        if (playerHealth != null && playerHealth.CurrentHealth <= 0f)
+        {
+            _outcomeLabel = "YOU LOSE";
+        }
+        else if (enemyLogic != null && enemyLogic.CurrentHealth <= 0f)
+        {
+            _outcomeLabel = "YOU WIN";
+        }
+        else
+        {
+            _outcomeLabel = string.Empty;
+        }
+
         if (playerHealthText != null)
         {
             playerHealthText.text = _playerHealthLabel;
@@ -82,7 +102,12 @@ public class HUD : MonoBehaviour
 
         if (instructionsText != null)
         {
-            instructionsText.text = _instructionLabel;
+            instructionsText.text = _outcomeLabel.Length > 0 ? string.Empty : _instructionLabel;
+        }
+
+        if (outcomeText != null)
+        {
+            outcomeText.text = _outcomeLabel;
         }
     }
 
@@ -124,5 +149,24 @@ public class HUD : MonoBehaviour
 
     private void OnGUI()
     {
+        if (outcomeText != null)
+        {
+            return;
+        }
+
+        if (_outcomeLabel.Length == 0)
+        {
+            return;
+        }
+
+        GUIStyle style = new GUIStyle(GUI.skin.label)
+        {
+            fontSize = 32,
+            fontStyle = FontStyle.Bold,
+            alignment = TextAnchor.MiddleCenter,
+            normal = { textColor = Color.white }
+        };
+
+        GUI.Label(new Rect(Screen.width * 0.5f - 150f, Screen.height * 0.25f, 300f, 60f), _outcomeLabel, style);
     }
 }

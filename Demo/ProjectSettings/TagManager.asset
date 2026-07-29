@@ -8,6 +8,8 @@ TagManager:
   - Water
   - Interactable
   - Wall
+  - Player
+  - Enemy
   layers:
   - Default
   - TransparentFX
