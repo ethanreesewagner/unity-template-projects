@@ -386,6 +386,10 @@ PrefabInstance:
       propertyPath: m_SortingOrder
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: 6922782369770070268, guid: 4a552e9c5f1e88a408e3129463e6306d, type: 3}
+      propertyPath: m_BodyType
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8020418536403941946, guid: 4a552e9c5f1e88a408e3129463e6306d, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.2262
@@ -436,7 +440,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8030637186980167421, guid: 4a552e9c5f1e88a408e3129463e6306d, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8030637186980167421, guid: 4a552e9c5f1e88a408e3129463e6306d, type: 3}
       propertyPath: m_LayerOverridePriority
@@ -457,15 +461,6 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1164856075}
     m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 927572375429873037, guid: 4a552e9c5f1e88a408e3129463e6306d, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 923741227}
-    - targetCorrespondingSourceObject: {fileID: 927572375429873037, guid: 4a552e9c5f1e88a408e3129463e6306d, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 923741226}
-    - targetCorrespondingSourceObject: {fileID: 927572375429873037, guid: 4a552e9c5f1e88a408e3129463e6306d, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 923741225}
     - targetCorrespondingSourceObject: {fileID: 927572375429873037, guid: 4a552e9c5f1e88a408e3129463e6306d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 923741224}
@@ -964,49 +959,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startCoins: 10
---- !u!114 &923741225
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 923741223}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b3d2523985e416542b1aa7c8bfdcc13f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &923741226
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 923741223}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 14eb15c3a6ae1e943a5c5ea384b4fe23, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &923741227
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 923741223}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 13af86b3ec8d2a94daf2194cf2690849, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  globalLightIntensity: 0.22
-  globalLightColor: {r: 0.06, g: 0.1, b: 0.25, a: 0.75}
-  cameraBackgroundColor: {r: 0.03, g: 0.05, b: 0.18, a: 0.75}
-  playerLightColor: {r: 0.95, g: 0.82, b: 0.42, a: 1}
-  playerLightRadius: 3.5
-  playerLightInnerRadius: 0.8
-  playerLightIntensity: 1.2
 --- !u!4 &923741232 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8020418536403941946, guid: 4a552e9c5f1e88a408e3129463e6306d, type: 3}
