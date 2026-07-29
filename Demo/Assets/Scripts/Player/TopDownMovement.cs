@@ -19,10 +19,67 @@ public class TopDownMovement : MonoBehaviour
 
     private SpriteRenderer _spriteRenderer;
 
+    private void Awake()
+    {
+        EnsurePlayerComponents();
+    }
+
     void Start()
     {
-        _rb2d = this.gameObject.GetComponent<Rigidbody2D>();
-        _spriteRenderer = GetComponent<SpriteRenderer>();
+        EnsurePlayerComponents();
+    }
+
+    private void EnsurePlayerComponents()
+    {
+        if (_rb2d == null)
+        {
+            _rb2d = GetComponent<Rigidbody2D>();
+        }
+
+        if (_rb2d == null)
+        {
+            _rb2d = gameObject.AddComponent<Rigidbody2D>();
+        }
+
+        _rb2d.gravityScale = 0f;
+        _rb2d.freezeRotation = true;
+
+        if (_spriteRenderer == null)
+        {
+            _spriteRenderer = GetComponent<SpriteRenderer>();
+        }
+
+        if (GetComponent<PlayerHealth>() == null)
+        {
+            gameObject.AddComponent<PlayerHealth>();
+        }
+
+        if (GetComponent<Attacking>() == null)
+        {
+            gameObject.AddComponent<Attacking>();
+        }
+
+        if (!gameObject.CompareTag("Player"))
+        {
+            TrySetTag("Player");
+        }
+    }
+
+    private void TrySetTag(string tagName)
+    {
+        if (string.IsNullOrEmpty(tagName))
+        {
+            return;
+        }
+
+        try
+        {
+            gameObject.tag = tagName;
+        }
+        catch (System.Exception ex)
+        {
+            Debug.LogWarning($"Could not assign tag '{tagName}' to '{gameObject.name}': {ex.Message}");
+        }
     }
 
     //Update is called once per frame
