@@ -4598,6 +4598,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13af86b3ec8d2a94daf2194cf2690849, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  globalLightIntensity: 0.22
+  globalLightColor: {r: 0.06, g: 0.1, b: 0.25, a: 0.75}
+  cameraBackgroundColor: {r: 0.03, g: 0.05, b: 0.18, a: 0.75}
+  playerLightColor: {r: 0.95, g: 0.82, b: 0.42, a: 1}
+  playerLightRadius: 3.5
+  playerLightInnerRadius: 0.8
+  playerLightIntensity: 1.2
 --- !u!4 &547036844 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8020418536403941946, guid: 4a552e9c5f1e88a408e3129463e6306d, type: 3}
@@ -4615,7 +4622,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 836410693bc79264f9103e9919fc1f4f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startCoins: 0
+  startCoins: 10
 --- !u!1 &557051754
 GameObject:
   m_ObjectHideFlags: 0

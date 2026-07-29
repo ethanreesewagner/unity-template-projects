@@ -7,7 +7,8 @@ using UnityEngine;
 public class Attacking : MonoBehaviour
 {
     [SerializeField] private float _attackDamage = 12f;
-    [SerializeField] private float _attackRadius = 1.8f;
+    [SerializeField] private float _attackRadius = 2.5f;
+    [SerializeField] private float _maxTargetDistance = 6f;
     [SerializeField] private float _attackCooldown = 0.35f;
 
     private float _nextAttackTime;
@@ -57,15 +58,45 @@ public class Attacking : MonoBehaviour
     {
         if (_cachedEnemy != null && _cachedEnemy.gameObject != null)
         {
-            return _cachedEnemy;
+            if (IsWithinAttackRange(_cachedEnemy.transform))
+            {
+                return _cachedEnemy;
+            }
         }
 
-        var enemy = FindObjectOfType<EnemyLogic>();
-        if (enemy != null)
+        EnemyLogic closestEnemy = null;
+        float closestDistance = Mathf.Infinity;
+
+        foreach (var enemy in FindObjectsOfType<EnemyLogic>())
         {
-            _cachedEnemy = enemy;
+            if (enemy == null || enemy.CurrentHealth <= 0f)
+            {
+                continue;
+            }
+
+            float distance = Vector2.Distance(transform.position, enemy.transform.position);
+            if (distance <= _maxTargetDistance && distance < closestDistance)
+            {
+                closestDistance = distance;
+                closestEnemy = enemy;
+            }
         }
 
-        return enemy;
+        if (closestEnemy != null)
+        {
+            _cachedEnemy = closestEnemy;
+        }
+
+        return closestEnemy;
+    }
+
+    private bool IsWithinAttackRange(Transform target)
+    {
+        if (target == null)
+        {
+            return false;
+        }
+
+        return Vector2.Distance(transform.position, target.position) <= _maxTargetDistance;
     }
 }
