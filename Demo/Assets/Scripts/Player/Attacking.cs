@@ -16,7 +16,7 @@ public class Attacking : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Q) && Time.time >= _nextAttackTime)
+        if (Input.GetKeyDown(KeyCode.J) && Time.time >= _nextAttackTime)
         {
             HandleAttack();
             _nextAttackTime = Time.time + _attackCooldown;
