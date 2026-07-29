@@ -415,15 +415,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6749403c4a538147a4116bd058cd95c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerHealth: {fileID: 0}
-  enemyLogic: {fileID: 0}
-  playerOffset: {x: 0, y: 1.6, z: 0}
-  enemyOffset: {x: 0, y: 1.6, z: 0}
-  barWidth: 1.2
-  barHeight: 0.18
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.55}
-  fillColor: {r: 0.2, g: 0.8, b: 0.2, a: 1}
-  enemyFillColor: {r: 0.8, g: 0.3, b: 0.3, a: 1}
 --- !u!114 &1353061310
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -431,7 +422,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1353061290}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e7c8212e0e1db4444a43eb107e8f097c, type: 3}
   m_Name: 
@@ -441,6 +432,7 @@ MonoBehaviour:
   playerHealthText: {fileID: 0}
   enemyHealthText: {fileID: 0}
   instructionsText: {fileID: 0}
+  outcomeText: {fileID: 0}
 --- !u!114 &1353061311
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -534,15 +526,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6749403c4a538147a4116bd058cd95c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerHealth: {fileID: 0}
-  enemyLogic: {fileID: 0}
-  playerOffset: {x: 0, y: 1.6, z: 0}
-  enemyOffset: {x: 0, y: 1.6, z: 0}
-  barWidth: 1.2
-  barHeight: 0.18
-  backgroundColor: {r: 0, g: 0, b: 0, a: 0.55}
-  fillColor: {r: 0.2, g: 0.8, b: 0.2, a: 1}
-  enemyFillColor: {r: 0.8, g: 0.3, b: 0.3, a: 1}
 --- !u!114 &1448570204
 MonoBehaviour:
   m_ObjectHideFlags: 0
