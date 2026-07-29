@@ -354,6 +354,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 927572375429873037, guid: 4a552e9c5f1e88a408e3129463e6306d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1353061312}
+    - targetCorrespondingSourceObject: {fileID: 927572375429873037, guid: 4a552e9c5f1e88a408e3129463e6306d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1353061313}
   m_SourcePrefab: {fileID: 100100000, guid: 4a552e9c5f1e88a408e3129463e6306d, type: 3}
 --- !u!1 &1353061290 stripped
 GameObject:
@@ -429,8 +432,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerHealth: {fileID: 0}
   enemyLogic: {fileID: 0}
+  moneySystem: {fileID: 0}
   playerHealthText: {fileID: 0}
   enemyHealthText: {fileID: 0}
+  coinsText: {fileID: 0}
   instructionsText: {fileID: 0}
   outcomeText: {fileID: 0}
 --- !u!114 &1353061311
@@ -464,6 +469,25 @@ MonoBehaviour:
   _attackDamage: 12
   _attackRadius: 1.4
   _attackCooldown: 0.35
+--- !u!114 &1353061313
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1353061290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13af86b3ec8d2a94daf2194cf2690849, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  globalLightIntensity: 0.22
+  globalLightColor: {r: 0.06, g: 0.1, b: 0.25, a: 0.75}
+  cameraBackgroundColor: {r: 0.03, g: 0.05, b: 0.18, a: 0.75}
+  playerLightColor: {r: 0.95, g: 0.82, b: 0.42, a: 1}
+  playerLightRadius: 3.5
+  playerLightInnerRadius: 0.8
+  playerLightIntensity: 1.2
 --- !u!1 &1448570192 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6181926240251236819, guid: ed2f77409a8953e47a492cbaa41b81b0, type: 3}
