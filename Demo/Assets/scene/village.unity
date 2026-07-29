@@ -632,7 +632,7 @@ GameObject:
   - component: {fileID: 275286363}
   - component: {fileID: 275286362}
   m_Layer: 0
-  m_Name: ChatGPT_Image_Jul_28__2026__10_50_11_AM-removebg-preview_35
+  m_Name: 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1017,7 +1017,7 @@ GameObject:
   - component: {fileID: 334545732}
   - component: {fileID: 334545733}
   m_Layer: 0
-  m_Name: ChatGPT_Image_Jul_28__2026__10_50_11_AM-removebg-preview_4
+  m_Name: 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1342,7 +1342,7 @@ GameObject:
   - component: {fileID: 463326681}
   - component: {fileID: 463326680}
   m_Layer: 0
-  m_Name: ChatGPT_Image_Jul_28__2026__10_50_11_AM-removebg-preview_42
+  m_Name: 7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8408,7 +8408,7 @@ GameObject:
   - component: {fileID: 2088057225}
   - component: {fileID: 2088057224}
   m_Layer: 0
-  m_Name: ChatGPT_Image_Jul_28__2026__10_50_11_AM-removebg-preview_39
+  m_Name: 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
