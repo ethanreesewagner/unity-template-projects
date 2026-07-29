@@ -5,13 +5,16 @@ public class HUD : MonoBehaviour
 {
     [SerializeField] private PlayerHealth playerHealth;
     [SerializeField] private EnemyLogic enemyLogic;
+    [SerializeField] private moneysystem moneySystem;
     [SerializeField] private Text playerHealthText;
     [SerializeField] private Text enemyHealthText;
+    [SerializeField] private Text coinsText;
     [SerializeField] private Text instructionsText;
     [SerializeField] private Text outcomeText;
 
     private string _playerHealthLabel = "Player HP: N/A";
     private string _enemyHealthLabel = "Enemy HP: N/A";
+    private string _coinLabel = "Coins: N/A";
     private string _outcomeLabel = string.Empty;
     private readonly string _instructionLabel = "Press Q to attack";
 
@@ -24,7 +27,7 @@ public class HUD : MonoBehaviour
             enemyLogic = FindObjectOfType<EnemyLogic>();
         }
 
-        if (playerHealthText == null || enemyHealthText == null || instructionsText == null || outcomeText == null)
+        if (playerHealthText == null || enemyHealthText == null || coinsText == null || instructionsText == null || outcomeText == null)
         {
             var texts = GetComponentsInChildren<Text>();
             foreach (var text in texts)
@@ -39,6 +42,11 @@ public class HUD : MonoBehaviour
                     enemyHealthText = text;
                 }
 
+                if (coinsText == null && text.name.ToLower().Contains("coin"))
+                {
+                    coinsText = text;
+                }
+
                 if (instructionsText == null && text.name.ToLower().Contains("instruction"))
                 {
                     instructionsText = text;
@@ -48,6 +56,15 @@ public class HUD : MonoBehaviour
                 {
                     outcomeText = text;
                 }
+            }
+        }
+
+        if (moneySystem == null)
+        {
+            moneySystem = FindObjectOfType<moneysystem>();
+            if (moneySystem == null)
+            {
+                moneySystem = gameObject.AddComponent<moneysystem>();
             }
         }
     }
@@ -77,6 +94,15 @@ public class HUD : MonoBehaviour
             _enemyHealthLabel = "Enemy HP: N/A";
         }
 
+        if (moneySystem != null)
+        {
+            _coinLabel = $"Coins: {moneySystem.Coins}";
+        }
+        else
+        {
+            _coinLabel = "Coins: N/A";
+        }
+
         if (playerHealth != null && playerHealth.CurrentHealth <= 0f)
         {
             _outcomeLabel = "YOU LOSE";
@@ -98,6 +124,11 @@ public class HUD : MonoBehaviour
         if (enemyHealthText != null)
         {
             enemyHealthText.text = _enemyHealthLabel;
+        }
+
+        if (coinsText != null)
+        {
+            coinsText.text = _coinLabel;
         }
 
         if (instructionsText != null)
