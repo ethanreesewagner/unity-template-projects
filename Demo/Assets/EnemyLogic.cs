@@ -5,11 +5,12 @@ using UnityEngine;
 public class EnemyLogic : MonoBehaviour, IDamageable
 {
     [Header("Chase settings")]
-    [SerializeField] private float chaseSpeed = 2f;
-    [SerializeField] private float attackRange = 1.2f;
+    [SerializeField] private float chaseSpeed = 2.2f;
+    [SerializeField] private float stopDistance = 1.4f;
+    [SerializeField] private float attackRange = 1.4f;
     [SerializeField] private float attackDamage = 10f;
     [SerializeField] private float attackCooldown = 1f;
-    [SerializeField] private float maxHealth = 50f;
+    [SerializeField] private float maxHealth = 80f;
 
     private Rigidbody2D _rb;
     private Transform _player;
@@ -17,15 +18,20 @@ public class EnemyLogic : MonoBehaviour, IDamageable
     private SpriteRenderer _spriteRenderer;
     private float _nextAttackTime;
     private float _currentHealth;
+    private bool _isDead;
+
+    private void Awake()
+    {
+        EnsureEnemyComponents();
+    }
 
     private void Start()
     {
-        _rb = GetComponent<Rigidbody2D>();
-        _rb.gravityScale = 0f;
-        _rb.freezeRotation = true;
+        EnsureEnemyComponents();
+
+        maxHealth = Mathf.Max(maxHealth, 120f);
         _currentHealth = maxHealth;
         _spriteRenderer = GetComponent<SpriteRenderer>();
-
         _player = FindPlayerTransform();
 
         if (_player != null)
@@ -41,6 +47,37 @@ public class EnemyLogic : MonoBehaviour, IDamageable
             {
                 chaseSpeed = Mathf.Max(0.5f, playerMovement.speed * 0.7f);
             }
+        }
+    }
+
+    private void EnsureEnemyComponents()
+    {
+        if (_rb == null)
+        {
+            _rb = GetComponent<Rigidbody2D>();
+        }
+
+        if (_rb == null)
+        {
+            _rb = gameObject.AddComponent<Rigidbody2D>();
+        }
+
+        _rb.gravityScale = 0f;
+        _rb.freezeRotation = true;
+
+        if (GetComponent<Collider2D>() == null)
+        {
+            gameObject.AddComponent<BoxCollider2D>();
+        }
+
+        if (GetComponent<SpriteRenderer>() == null)
+        {
+            gameObject.AddComponent<SpriteRenderer>();
+        }
+
+        if (!gameObject.CompareTag("Enemy"))
+        {
+            gameObject.tag = "Enemy";
         }
     }
 
@@ -65,15 +102,17 @@ public class EnemyLogic : MonoBehaviour, IDamageable
         }
 
         return null;
-
-        return null;
     }
 
     private void Update()
     {
-        if (_player == null || _currentHealth <= 0f)
+        if (_player == null || _currentHealth <= 0f || _isDead)
         {
-            _rb.velocity = Vector2.zero;
+            if (_rb != null)
+            {
+                _rb.velocity = Vector2.zero;
+            }
+
             return;
         }
 
@@ -81,13 +120,16 @@ public class EnemyLogic : MonoBehaviour, IDamageable
         float distance = delta.magnitude;
         Vector2 movement = Vector2.zero;
 
-        float stopDistance = attackRange + 0.1f;
         if (distance > stopDistance)
         {
             movement = delta.normalized * chaseSpeed;
         }
 
-        _rb.velocity = movement;
+        if (_rb != null)
+        {
+            _rb.velocity = movement;
+        }
+
         UpdateFacing(delta.x);
 
         if (distance <= attackRange && Time.time >= _nextAttackTime)
@@ -102,21 +144,56 @@ public class EnemyLogic : MonoBehaviour, IDamageable
         {
             _playerDamageable.DealDamage(attackDamage);
         }
+        else
+        {
+            var player = FindObjectOfType<PlayerHealth>();
+            if (player != null)
+            {
+                player.DealDamage(attackDamage);
+            }
+        }
 
         _nextAttackTime = Time.time + attackCooldown;
     }
 
     public void DealDamage(float amount)
     {
+        if (_isDead)
+        {
+            return;
+        }
+
         _currentHealth -= amount;
         if (_currentHealth <= 0f)
         {
-            Destroy(gameObject);
+            _currentHealth = 0f;
+            _isDead = true;
+
+            if (_rb != null)
+            {
+                _rb.velocity = Vector2.zero;
+            }
+
+            if (_spriteRenderer != null)
+            {
+                _spriteRenderer.color = new Color(0.6f, 0.6f, 0.6f, 0.8f);
+            }
+
+            var collider = GetComponent<Collider2D>();
+            if (collider != null)
+            {
+                collider.enabled = false;
+            }
         }
     }
 
     public void HealHealth(float amount)
     {
+        if (_isDead)
+        {
+            return;
+        }
+
         _currentHealth = Mathf.Min(maxHealth, _currentHealth + amount);
     }
 

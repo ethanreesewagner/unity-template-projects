@@ -6,13 +6,13 @@ using UnityEngine;
 // ==============================================================
 public class Attacking : MonoBehaviour
 {
-    [SerializeField] private float _attackDamage = 20f;
-    [SerializeField] private float _attackRadius = 1.2f;
-    [SerializeField] private float _attackCooldown = 0.3f;
+    [SerializeField] private float _attackDamage = 12f;
+    [SerializeField] private float _attackRadius = 1.8f;
+    [SerializeField] private float _attackCooldown = 0.35f;
 
     private float _nextAttackTime;
+    private EnemyLogic _cachedEnemy;
 
-    //Each frame, if the key is pressed, start an attack
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Q) && Time.time >= _nextAttackTime)
@@ -22,11 +22,16 @@ public class Attacking : MonoBehaviour
         }
     }
 
-    //Performs calculations to deal damage.
     private void HandleAttack()
     {
-        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, _attackRadius);
+        var enemy = FindTargetEnemy();
+        if (enemy != null)
+        {
+            enemy.DealDamage(_attackDamage);
+            return;
+        }
 
+        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, _attackRadius);
         foreach (var hit in hits)
         {
             if (hit.gameObject == gameObject)
@@ -35,11 +40,32 @@ public class Attacking : MonoBehaviour
             }
 
             var damageable = hit.GetComponent<IDamageable>();
+            if (damageable == null)
+            {
+                damageable = hit.GetComponentInChildren<IDamageable>();
+            }
+
             if (damageable != null)
             {
                 damageable.DealDamage(_attackDamage);
                 return;
             }
         }
+    }
+
+    private EnemyLogic FindTargetEnemy()
+    {
+        if (_cachedEnemy != null && _cachedEnemy.gameObject != null)
+        {
+            return _cachedEnemy;
+        }
+
+        var enemy = FindObjectOfType<EnemyLogic>();
+        if (enemy != null)
+        {
+            _cachedEnemy = enemy;
+        }
+
+        return enemy;
     }
 }
