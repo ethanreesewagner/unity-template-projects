@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: 5ab779eb8427e9c4295c3ba881edf9de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4079460919878795693
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_0
+  - first:
+      213: -8204672723156489455
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_1
+  - first:
+      213: 5824909856325675239
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_2
+  - first:
+      213: 3364059065258434140
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_3
+  - first:
+      213: -7629912341078387266
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_4
+  - first:
+      213: 1444905019619231169
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_5
+  - first:
+      213: -2243283277630115639
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_6
+  - first:
+      213: 5566693182527514631
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_7
+  - first:
+      213: 4985995074329506791
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_8
+  - first:
+      213: 3096291862684138819
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_9
+  - first:
+      213: -2076517081837125724
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_10
+  - first:
+      213: -794906974186821089
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_11
+  - first:
+      213: 7891391451687418034
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_12
+  - first:
+      213: 3091069442269148493
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_13
+  - first:
+      213: 3773809191392145678
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_14
+  - first:
+      213: 5490889044544253466
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_15
+  - first:
+      213: 689111834169025071
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_16
+  - first:
+      213: -9130681412666432751
+    second: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 307
+        width: 589
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1c67cb7182d9830800000000000000
+      internalID: 4079460919878795693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 574
+        width: 561
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11babe5e0a5232e80800000000000000
+      internalID: -8204672723156489455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 824
+        width: 176
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8a6f217ac36d050800000000000000
+      internalID: 5824909856325675239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 672
+        width: 147
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e592475e98fae20800000000000000
+      internalID: 3364059065258434140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 265
+        width: 478
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb557aa962b1d1690800000000000000
+      internalID: -7629912341078387266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 545
+        width: 87
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5459cb5755d0410800000000000000
+      internalID: 1444905019619231169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 366
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c078429eb14ed0e0800000000000000
+      internalID: -2243283277630115639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 385
+        width: 216
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7082426b4fdd04d40800000000000000
+      internalID: 5566693182527514631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 267
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3f1496a10d13540800000000000000
+      internalID: 4985995074329506791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 71
+        width: 87
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d78345b0d38fa20800000000000000
+      internalID: 3096291862684138819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 71
+        width: 180
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af311747babe23e0800000000000000
+      internalID: -2076517081837125724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 71
+        width: 151
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a2d1e815ce7f4f0800000000000000
+      internalID: -794906974186821089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 70
+        width: 74
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8f16507bad38d60800000000000000
+      internalID: 7891391451687418034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 72
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d457482d74fa5ea20800000000000000
+      internalID: 3091069442269148493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 71
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01780f07734f5430800000000000000
+      internalID: 3773809191392145678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 71
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ee4297e7e833c40800000000000000
+      internalID: 5490889044544253466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 75
+        width: 216
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22a926ef87309900800000000000000
+      internalID: 689111834169025071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Glassblowers-Workshop-Top-Down-Pixel-Art-Asset6-1536x1024 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 71
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11361c0b1ad494180800000000000000
+      internalID: -9130681412666432751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
