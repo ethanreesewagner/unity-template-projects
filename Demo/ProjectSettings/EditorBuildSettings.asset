@@ -4,23 +4,6 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 1
-<<<<<<< HEAD
-    path: Assets/scene/Farm.unity
-    guid: 407fe0c34442085478e41092e23674ce
-  - enabled: 1
-    path: Assets/scene/village.unity
-    guid: 97de6c594f473364ebf5bc10a477685b
-=======
-    path: Assets/scene/village.unity
-    guid: 97de6c594f473364ebf5bc10a477685b
-  - enabled: 1
-    path: Assets/scene/Farm(default).unity
-    guid: 407fe0c34442085478e41092e23674ce
->>>>>>> 6a64347f9758a5092290efc5ca9ae86ed237a4ad
+  m_Scenes: []
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
