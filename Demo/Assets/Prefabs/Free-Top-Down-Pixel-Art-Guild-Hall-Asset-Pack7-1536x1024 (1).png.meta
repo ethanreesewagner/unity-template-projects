@@ -1,0 +1,1276 @@
+fileFormatVersion: 2
+guid: 895b764484dd6ae43aa9c5c64b47b5d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6157175101635131535
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_0
+  - first:
+      213: -8987728218987235078
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_1
+  - first:
+      213: 4225036019229454665
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_2
+  - first:
+      213: -6828149394326883443
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_3
+  - first:
+      213: 6002470141621527597
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_4
+  - first:
+      213: 5683327006393980067
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_5
+  - first:
+      213: -649015996853676496
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_6
+  - first:
+      213: 2368656288007676127
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_7
+  - first:
+      213: -3827593669768821004
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_8
+  - first:
+      213: -8956604823447919296
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_9
+  - first:
+      213: -4274133473698723663
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_10
+  - first:
+      213: 5839960170775714210
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_11
+  - first:
+      213: 5767595665182806275
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_12
+  - first:
+      213: 5060580226921779263
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_13
+  - first:
+      213: -7295004459877976295
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_14
+  - first:
+      213: 826493512517721929
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_15
+  - first:
+      213: 6200621000638351410
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_16
+  - first:
+      213: 8762366961942521495
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_17
+  - first:
+      213: 555714241195901823
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_18
+  - first:
+      213: -3312382103934816394
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_19
+  - first:
+      213: 2357539446724226709
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_20
+  - first:
+      213: 7528226029277632726
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_21
+  - first:
+      213: -221196979429490566
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_22
+  - first:
+      213: -7514725569147120785
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_23
+  - first:
+      213: -6637855710556892181
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_24
+  - first:
+      213: 4317245624103168307
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_25
+  - first:
+      213: 609568212283424232
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_26
+  - first:
+      213: -3549501073872128945
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_27
+  - first:
+      213: 4439363336674379307
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_28
+  - first:
+      213: -390261420813154987
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_29
+  - first:
+      213: 377669424845985741
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_30
+  - first:
+      213: 8397519744058135176
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_31
+  - first:
+      213: 8514898256250363533
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_32
+  - first:
+      213: 2523541115512520397
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_33
+  - first:
+      213: -5813084220033531430
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_34
+  - first:
+      213: -6814111342532095618
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_35
+  - first:
+      213: -748077908733946713
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_36
+  - first:
+      213: 3455227445332040093
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_37
+  - first:
+      213: -3169167153528322607
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_38
+  - first:
+      213: -4627874324862098385
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_39
+  - first:
+      213: 3353791026591793311
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_40
+  - first:
+      213: -874622160704891169
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_41
+  - first:
+      213: 4430553639563811179
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_42
+  - first:
+      213: 5207417459799551241
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_43
+  - first:
+      213: 4809682525409379837
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_44
+  - first:
+      213: 4371259118535507859
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_45
+  - first:
+      213: -5606695215687548616
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_46
+  - first:
+      213: -5773936747448806605
+    second: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_47
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 670
+        width: 660
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177882ffdd15d8aa0800000000000000
+      internalID: -6157175101635131535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 857
+        width: 193
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8f289cdcc254380800000000000000
+      internalID: -8987728218987235078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 858
+        width: 146
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941f661dfd752aa30800000000000000
+      internalID: 4225036019229454665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 728
+        width: 227
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83f8dd8d4a8d31a0800000000000000
+      internalID: -6828149394326883443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 670
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d246d369ace0d4350800000000000000
+      internalID: 6002470141621527597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 670
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a45f7efccb3fde40800000000000000
+      internalID: 5683327006393980067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 670
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0369df5b36b3ef6f0800000000000000
+      internalID: -649015996853676496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 670
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd061b128582fd020800000000000000
+      internalID: 2368656288007676127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 673
+        width: 50
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f645e836d7a1eac0800000000000000
+      internalID: -3827593669768821004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 670
+        width: 114
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04526d00e5fb3b380800000000000000
+      internalID: -8956604823447919296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 671
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8c491404a3fa4c0800000000000000
+      internalID: -4274133473698723663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 674
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9148975d4bb0150800000000000000
+      internalID: 5839960170775714210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 677
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301dd4f03bd9a0050800000000000000
+      internalID: 5767595665182806275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 486
+        width: 217
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30d90f77eaca3640800000000000000
+      internalID: 5060580226921779263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 599
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91735162810f2ca90800000000000000
+      internalID: -7295004459877976295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 602
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f98ce787b487b00800000000000000
+      internalID: 826493512517721929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 599
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23840e1a2f70d0650800000000000000
+      internalID: 6200621000638351410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 597
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796e33ea35e2a9970800000000000000
+      internalID: 8762366961942521495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 597
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f738b17782b46b700800000000000000
+      internalID: 555714241195901823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 594
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67faa96b60e0802d0800000000000000
+      internalID: -3312382103934816394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 484
+        width: 62
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ee7f1d2a9a7b020800000000000000
+      internalID: 2357539446724226709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 484
+        width: 67
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d851f7ffa1a97860800000000000000
+      internalID: 7528226029277632726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 484
+        width: 183
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7047b7e4862eecf0800000000000000
+      internalID: -221196979429490566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 488
+        width: 159
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63d07ad8e456b790800000000000000
+      internalID: -7514725569147120785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 286
+        width: 165
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be355fd666991e3a0800000000000000
+      internalID: -6637855710556892181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 484
+        width: 165
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33967c87500f9eb30800000000000000
+      internalID: 4317245624103168307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 484
+        width: 165
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edf5873f0f957800800000000000000
+      internalID: 609568212283424232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 483
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44fbf15493adbec0800000000000000
+      internalID: -3549501073872128945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 484
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b268e571f69cb9d30800000000000000
+      internalID: 4439363336674379307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 286
+        width: 165
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55584e23e43859af0800000000000000
+      internalID: -390261420813154987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 288
+        width: 164
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc798764750cd3500800000000000000
+      internalID: 377669424845985741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 283
+        width: 158
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8821aea17bbf98470800000000000000
+      internalID: 8397519744058135176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 288
+        width: 196
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e5566a9defa2670800000000000000
+      internalID: 8514898256250363533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 288
+        width: 196
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce7736364b650320800000000000000
+      internalID: 2523541115512520397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 359
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1097f63b6c35fa0800000000000000
+      internalID: -5813084220033531430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 161
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e711a6036d96f61a0800000000000000
+      internalID: -6814111342532095618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 56
+        width: 161
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a498910b1b4e95f0800000000000000
+      internalID: -748077908733946713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 182
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9952311e0f63ff20800000000000000
+      internalID: 3455227445332040093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 179
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5cb1cc34bd404d0800000000000000
+      internalID: -3169167153528322607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 230
+        width: 49
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24a17132dc76cfb0800000000000000
+      internalID: -4627874324862098385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 56
+        width: 144
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9085e66b2f0b8e20800000000000000
+      internalID: 3353791026591793311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 56
+        width: 144
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6108e57c7bcd3f0800000000000000
+      internalID: -874622160704891169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 56
+        width: 143
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69d384af0d7c7d30800000000000000
+      internalID: 4430553639563811179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 56
+        width: 169
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90de480f696744840800000000000000
+      internalID: 5207417459799551241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 179
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df50e6926cc6fb240800000000000000
+      internalID: 4809682525409379837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 56
+        width: 40
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ffe752205d9ac30800000000000000
+      internalID: 4371259118535507859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 59
+        width: 29
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831cf0928640132b0800000000000000
+      internalID: -5606695215687548616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Top-Down-Pixel-Art-Guild-Hall-Asset-Pack7-1536x1024 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 56
+        width: 164
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3335dbcae1bdedfa0800000000000000
+      internalID: -5773936747448806605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
