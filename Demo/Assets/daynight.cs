@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Rendering.Universal;
 
 public class daynight : MonoBehaviour
 {
@@ -8,14 +9,14 @@ public class daynight : MonoBehaviour
     public float night;
     public float defaultday;
     public float defaultnight;
-
+    private Light2D sun;
 
     // Start is called before the first frame update
     void Start()
     {
         defaultday = day;
         defaultnight = night;
-        Light sun = GetComponent<Light>();
+        sun = GetComponent<Light2D>();
         Debug.Log(sun.intensity);
     }
 
@@ -24,9 +25,11 @@ public class daynight : MonoBehaviour
     {
        if (day > 0){
         day -= Time.deltaTime;
+        sun.intensity = 1.2f;
        } 
        else if (night > 0){
         night -= Time.deltaTime;
+        sun.intensity = 0.2f;
        }
        else {
         day = defaultday;
