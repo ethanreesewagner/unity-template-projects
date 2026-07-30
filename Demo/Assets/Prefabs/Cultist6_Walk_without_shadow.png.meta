@@ -692,7 +692,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cultist6_Walk_without_shadow_0: -1749652238740292826
+      Cultist6_Walk_without_shadow_1: -8302012806994236900
+      Cultist6_Walk_without_shadow_10: -8350478343575982304
+      Cultist6_Walk_without_shadow_11: 8140176595638466406
+      Cultist6_Walk_without_shadow_12: 6073312094962107912
+      Cultist6_Walk_without_shadow_13: -8933575365429267888
+      Cultist6_Walk_without_shadow_14: 992414657903313320
+      Cultist6_Walk_without_shadow_15: -8234989772810838691
+      Cultist6_Walk_without_shadow_16: -7538131657009429969
+      Cultist6_Walk_without_shadow_17: -4418811083524782851
+      Cultist6_Walk_without_shadow_18: 2786073423170678412
+      Cultist6_Walk_without_shadow_19: 1495025854868353178
+      Cultist6_Walk_without_shadow_2: -3432829451297838722
+      Cultist6_Walk_without_shadow_20: 1891077331387016536
+      Cultist6_Walk_without_shadow_21: 8347822114885048877
+      Cultist6_Walk_without_shadow_22: 7579050057630053070
+      Cultist6_Walk_without_shadow_23: 8863049518905643268
+      Cultist6_Walk_without_shadow_3: 4128800183362324543
+      Cultist6_Walk_without_shadow_4: 2473274467678080500
+      Cultist6_Walk_without_shadow_5: 3693492153399623738
+      Cultist6_Walk_without_shadow_6: 6597217222794008999
+      Cultist6_Walk_without_shadow_7: 7782559291626083901
+      Cultist6_Walk_without_shadow_8: 3906698159655855927
+      Cultist6_Walk_without_shadow_9: -4966658223363592585
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -164,7 +164,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Decorative_cracks_interior_0: -3934524338646284663
+      Decorative_cracks_interior_1: 2697978895979866808
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

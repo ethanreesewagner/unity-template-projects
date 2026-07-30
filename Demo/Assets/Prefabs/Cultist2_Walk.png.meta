@@ -692,7 +692,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cultist2_Walk_0: 6115033487804487907
+      Cultist2_Walk_1: 4446214526255272657
+      Cultist2_Walk_10: -3180696638818217958
+      Cultist2_Walk_11: 3840855933076196899
+      Cultist2_Walk_12: 8253161703998504712
+      Cultist2_Walk_13: -1387040346797772337
+      Cultist2_Walk_14: -4594936636391755588
+      Cultist2_Walk_15: 5752343931539567753
+      Cultist2_Walk_16: 6472031795445701291
+      Cultist2_Walk_17: -599743719887325962
+      Cultist2_Walk_18: -4739630192220584455
+      Cultist2_Walk_19: -5062168108413422347
+      Cultist2_Walk_2: -7506708946238489992
+      Cultist2_Walk_20: 298206100721591516
+      Cultist2_Walk_21: 1802011432477407472
+      Cultist2_Walk_22: -5534119188681323255
+      Cultist2_Walk_23: -783707009500018484
+      Cultist2_Walk_3: 1395857898059886511
+      Cultist2_Walk_4: 6654635182773027858
+      Cultist2_Walk_5: -3016112220434044132
+      Cultist2_Walk_6: -6166823146504033528
+      Cultist2_Walk_7: -5892451240647126367
+      Cultist2_Walk_8: 8444127717058971431
+      Cultist2_Walk_9: 4222188395719870181
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

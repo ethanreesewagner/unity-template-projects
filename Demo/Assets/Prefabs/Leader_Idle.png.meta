@@ -1124,7 +1124,49 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Leader_Idle_0: -811147056321880934
+      Leader_Idle_1: 4914829458753672894
+      Leader_Idle_10: 5745852333365446747
+      Leader_Idle_11: -2432667950910162505
+      Leader_Idle_12: -2367809771291934508
+      Leader_Idle_13: 6450402653562156066
+      Leader_Idle_14: -4312369362832142030
+      Leader_Idle_15: -4082355807628443121
+      Leader_Idle_16: -2113950790578217618
+      Leader_Idle_17: 7944264251484253283
+      Leader_Idle_18: -5914194864286816224
+      Leader_Idle_19: 610058792512172657
+      Leader_Idle_2: -602483103398899389
+      Leader_Idle_20: -5724576720707222403
+      Leader_Idle_21: -2444580480102731131
+      Leader_Idle_22: 6860996830353625409
+      Leader_Idle_23: 2245444668932504861
+      Leader_Idle_24: 290992279527113437
+      Leader_Idle_25: -4305930583918486896
+      Leader_Idle_26: 6064324895770857236
+      Leader_Idle_27: 3943796435339584808
+      Leader_Idle_28: 1612712548999393549
+      Leader_Idle_29: 2696318708322223159
+      Leader_Idle_3: 842782932605675068
+      Leader_Idle_30: 4479242084184629442
+      Leader_Idle_31: -1280714244160591550
+      Leader_Idle_32: 4519641779522896509
+      Leader_Idle_33: -691975332090715692
+      Leader_Idle_34: -906057020164582060
+      Leader_Idle_35: 3448353286389600726
+      Leader_Idle_36: 6890067460789608212
+      Leader_Idle_37: -6621050399768089519
+      Leader_Idle_38: 4085459559058298797
+      Leader_Idle_39: 8886601297087872121
+      Leader_Idle_4: 4904426666160053879
+      Leader_Idle_40: 6980583581223645071
+      Leader_Idle_41: 5749935152117794457
+      Leader_Idle_5: 7513060672321877811
+      Leader_Idle_6: 6160321362871166085
+      Leader_Idle_7: 6455798378442940203
+      Leader_Idle_8: -4895555820538366493
+      Leader_Idle_9: 2431586342180316961
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

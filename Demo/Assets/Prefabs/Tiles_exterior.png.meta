@@ -884,7 +884,39 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tiles_exterior_0: 6730207753971230845
+      Tiles_exterior_1: -5172006633360961785
+      Tiles_exterior_10: -6982282818262216398
+      Tiles_exterior_11: 5016635853038814472
+      Tiles_exterior_12: 5463078725777331332
+      Tiles_exterior_13: 2686172801386053078
+      Tiles_exterior_14: 4168391772375057683
+      Tiles_exterior_15: 3043349728633020514
+      Tiles_exterior_16: 4175176150694148258
+      Tiles_exterior_17: 7189714464421407388
+      Tiles_exterior_18: 3941819349394090631
+      Tiles_exterior_19: 2472467041066753791
+      Tiles_exterior_2: -6491903768836101598
+      Tiles_exterior_20: 2859773828048713539
+      Tiles_exterior_21: 7773792827876985295
+      Tiles_exterior_22: -1135500574898928829
+      Tiles_exterior_23: -7250517763190720476
+      Tiles_exterior_24: -1477049259511029454
+      Tiles_exterior_25: 2963783461041364904
+      Tiles_exterior_26: -5370731934117147787
+      Tiles_exterior_27: 4176365371114468267
+      Tiles_exterior_28: -3427283701015029750
+      Tiles_exterior_29: 6903731410978028714
+      Tiles_exterior_3: -7412558195823100238
+      Tiles_exterior_30: -8496806882191410469
+      Tiles_exterior_31: -2561811258374313468
+      Tiles_exterior_4: -5922778028817409600
+      Tiles_exterior_5: -1410416807309232002
+      Tiles_exterior_6: -1779611397928220459
+      Tiles_exterior_7: -1670832438204361036
+      Tiles_exterior_8: 2239077279226680244
+      Tiles_exterior_9: 2893150946470760797
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

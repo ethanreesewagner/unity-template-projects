@@ -164,7 +164,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cultists_shadow_0: 3504083966223792606
+      Cultists_shadow_1: 6805198519335595266
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

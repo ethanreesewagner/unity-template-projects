@@ -404,7 +404,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blades_trap_0: 4917266168239376613
+      blades_trap_1: 5979065086977543838
+      blades_trap_10: -5625491675736031034
+      blades_trap_11: -620223394498029456
+      blades_trap_2: -8414352715736556258
+      blades_trap_3: 6551468551558093735
+      blades_trap_4: -6651584438410143174
+      blades_trap_5: -6249365977475427109
+      blades_trap_6: -7320671658422700779
+      blades_trap_7: -1788378288594387904
+      blades_trap_8: -857634669236880013
+      blades_trap_9: -4012568083999776540
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

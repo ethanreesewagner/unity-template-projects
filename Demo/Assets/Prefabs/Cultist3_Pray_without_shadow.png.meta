@@ -1268,7 +1268,55 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cultist3_Pray_without_shadow_0: 3824179138246008095
+      Cultist3_Pray_without_shadow_1: -4186190947002916271
+      Cultist3_Pray_without_shadow_10: 2376670451283384298
+      Cultist3_Pray_without_shadow_11: -8807245492294420321
+      Cultist3_Pray_without_shadow_12: 6558084907443233737
+      Cultist3_Pray_without_shadow_13: -1263777443036959742
+      Cultist3_Pray_without_shadow_14: -1452112750075443472
+      Cultist3_Pray_without_shadow_15: 3836625766901288684
+      Cultist3_Pray_without_shadow_16: 3649938887687205605
+      Cultist3_Pray_without_shadow_17: 5869351433830632287
+      Cultist3_Pray_without_shadow_18: -4312628586653067504
+      Cultist3_Pray_without_shadow_19: -6721345007054213715
+      Cultist3_Pray_without_shadow_2: -7998020203803093467
+      Cultist3_Pray_without_shadow_20: 520615445676156902
+      Cultist3_Pray_without_shadow_21: 5569234291061208355
+      Cultist3_Pray_without_shadow_22: 576692636648017521
+      Cultist3_Pray_without_shadow_23: 4169690362531410490
+      Cultist3_Pray_without_shadow_24: -6216813097114823185
+      Cultist3_Pray_without_shadow_25: 2958445064682193190
+      Cultist3_Pray_without_shadow_26: 6764814447311213535
+      Cultist3_Pray_without_shadow_27: -8684732550602562107
+      Cultist3_Pray_without_shadow_28: 1791363917149985562
+      Cultist3_Pray_without_shadow_29: -4655757820745529007
+      Cultist3_Pray_without_shadow_3: 8076482807541922795
+      Cultist3_Pray_without_shadow_30: -842954275682445332
+      Cultist3_Pray_without_shadow_31: 1080023388317012040
+      Cultist3_Pray_without_shadow_32: -8946575326440494385
+      Cultist3_Pray_without_shadow_33: 7503575709636111751
+      Cultist3_Pray_without_shadow_34: -506440246312586095
+      Cultist3_Pray_without_shadow_35: 8298016536537289502
+      Cultist3_Pray_without_shadow_36: 8212341237569618151
+      Cultist3_Pray_without_shadow_37: 679616782270515475
+      Cultist3_Pray_without_shadow_38: 8062866008178259667
+      Cultist3_Pray_without_shadow_39: 3475125608182255490
+      Cultist3_Pray_without_shadow_4: -7530163811241280184
+      Cultist3_Pray_without_shadow_40: 5933135227461197557
+      Cultist3_Pray_without_shadow_41: 2283659162236488457
+      Cultist3_Pray_without_shadow_42: 1584787647516370182
+      Cultist3_Pray_without_shadow_43: 8672036180910163262
+      Cultist3_Pray_without_shadow_44: 984072095229214776
+      Cultist3_Pray_without_shadow_45: -4259757333802958806
+      Cultist3_Pray_without_shadow_46: -2272044282267721007
+      Cultist3_Pray_without_shadow_47: -971677193343751715
+      Cultist3_Pray_without_shadow_5: -4534556353564066
+      Cultist3_Pray_without_shadow_6: -2207104623264728199
+      Cultist3_Pray_without_shadow_7: -1531503007536374772
+      Cultist3_Pray_without_shadow_8: -2502015046208367647
+      Cultist3_Pray_without_shadow_9: 2341179194487795632
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

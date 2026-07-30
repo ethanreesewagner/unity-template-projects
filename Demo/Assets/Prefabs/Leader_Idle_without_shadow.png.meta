@@ -1124,7 +1124,49 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Leader_Idle_without_shadow_0: 4776281497903001916
+      Leader_Idle_without_shadow_1: 8745775786114553048
+      Leader_Idle_without_shadow_10: -5241491834328013412
+      Leader_Idle_without_shadow_11: -547558645972410411
+      Leader_Idle_without_shadow_12: -2348934413629796275
+      Leader_Idle_without_shadow_13: -2730753852679782283
+      Leader_Idle_without_shadow_14: 468345255577805534
+      Leader_Idle_without_shadow_15: 4774314343426336717
+      Leader_Idle_without_shadow_16: -8630898597242734690
+      Leader_Idle_without_shadow_17: 6665282905419870575
+      Leader_Idle_without_shadow_18: -8514518878697129274
+      Leader_Idle_without_shadow_19: 4032786392510242974
+      Leader_Idle_without_shadow_2: -5569885763070521425
+      Leader_Idle_without_shadow_20: -446376375865480974
+      Leader_Idle_without_shadow_21: -1946443535018703639
+      Leader_Idle_without_shadow_22: -465178208406738995
+      Leader_Idle_without_shadow_23: -7942345180308800971
+      Leader_Idle_without_shadow_24: -7383258641246649904
+      Leader_Idle_without_shadow_25: 7707252342314367006
+      Leader_Idle_without_shadow_26: 6120352265698405559
+      Leader_Idle_without_shadow_27: 5665129092453912082
+      Leader_Idle_without_shadow_28: -541993025774690796
+      Leader_Idle_without_shadow_29: 2028906086038990437
+      Leader_Idle_without_shadow_3: 565757773883692223
+      Leader_Idle_without_shadow_30: -1945460691382903755
+      Leader_Idle_without_shadow_31: -5073941819076500831
+      Leader_Idle_without_shadow_32: 6550127475584190586
+      Leader_Idle_without_shadow_33: -8686861793932615437
+      Leader_Idle_without_shadow_34: 3957380353394807250
+      Leader_Idle_without_shadow_35: -5686237403204896154
+      Leader_Idle_without_shadow_36: -6073581862143036769
+      Leader_Idle_without_shadow_37: -5993612012609805953
+      Leader_Idle_without_shadow_38: 9205197834235130632
+      Leader_Idle_without_shadow_39: 1365028931803167169
+      Leader_Idle_without_shadow_4: -3147613103677855726
+      Leader_Idle_without_shadow_40: 4994556744766394891
+      Leader_Idle_without_shadow_41: -3622316507884394568
+      Leader_Idle_without_shadow_5: 153626063359401633
+      Leader_Idle_without_shadow_6: 6289044072457973809
+      Leader_Idle_without_shadow_7: 1762992208150791654
+      Leader_Idle_without_shadow_8: -6027993606035247283
+      Leader_Idle_without_shadow_9: 815347022792747417
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Discoverer1_shadow_0: -1019525607448450485
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

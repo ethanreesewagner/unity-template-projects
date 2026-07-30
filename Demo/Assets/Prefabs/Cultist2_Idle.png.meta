@@ -1124,7 +1124,49 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cultist2_Idle_0: -9086017432181339182
+      Cultist2_Idle_1: 463489595592852425
+      Cultist2_Idle_10: -8063205031628189842
+      Cultist2_Idle_11: 2205602135773521121
+      Cultist2_Idle_12: -3809689086109300499
+      Cultist2_Idle_13: 8053778180076527086
+      Cultist2_Idle_14: 5745872701372454843
+      Cultist2_Idle_15: 4089700853880402076
+      Cultist2_Idle_16: -3197840916102953771
+      Cultist2_Idle_17: -954106175170622133
+      Cultist2_Idle_18: -4957802301106387397
+      Cultist2_Idle_19: -2834358589592510225
+      Cultist2_Idle_2: 7938357188583392195
+      Cultist2_Idle_20: -237208732270327691
+      Cultist2_Idle_21: -1325653635507989831
+      Cultist2_Idle_22: -7883656624346049240
+      Cultist2_Idle_23: -5402726450345022995
+      Cultist2_Idle_24: 868411141902882758
+      Cultist2_Idle_25: 8196480853157448977
+      Cultist2_Idle_26: 963414252061634768
+      Cultist2_Idle_27: 2933696291308177295
+      Cultist2_Idle_28: 3043541718328218264
+      Cultist2_Idle_29: 4725558614488713925
+      Cultist2_Idle_3: -8590093644743023002
+      Cultist2_Idle_30: -8734798969147680136
+      Cultist2_Idle_31: 4076445093977918129
+      Cultist2_Idle_32: 8244723226732919020
+      Cultist2_Idle_33: -822315599170096512
+      Cultist2_Idle_34: -6872523988193977912
+      Cultist2_Idle_35: -4090304815676109008
+      Cultist2_Idle_36: 3523663159043917615
+      Cultist2_Idle_37: -4888422272152534025
+      Cultist2_Idle_38: 8189751848924794193
+      Cultist2_Idle_39: -7849003180517502410
+      Cultist2_Idle_4: 4999254393676669996
+      Cultist2_Idle_40: -5145796764255810069
+      Cultist2_Idle_41: 6954245111489172653
+      Cultist2_Idle_5: 2116268090826815418
+      Cultist2_Idle_6: 6240274958793653336
+      Cultist2_Idle_7: -1497345331269215198
+      Cultist2_Idle_8: 1534863425904192942
+      Cultist2_Idle_9: -788545279170717954
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
