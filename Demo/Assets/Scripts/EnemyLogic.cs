@@ -22,7 +22,14 @@ public class EnemyLogic : MonoBehaviour, IDamageable
     private bool _isDead;
 
     private void Awake()
-    {
+    {   
+        PlayerPrefs.SetFloat("speed", chaseSpeed+0.5f);
+        PlayerPrefs.SetFloat("range", attackRange+0.5f);
+        PlayerPrefs.SetFloat("damage", attackDamage+5f);
+        chaseSpeed = PlayerPrefs.GetFloat("speed", chaseSpeed);
+        attackRange = PlayerPrefs.GetFloat("range", attackRange);
+        attackDamage = PlayerPrefs.GetFloat("damage", attackDamage);
+        _rb = GetComponent<Rigidbody2D>();
         EnsureEnemyComponents();
     }
 
