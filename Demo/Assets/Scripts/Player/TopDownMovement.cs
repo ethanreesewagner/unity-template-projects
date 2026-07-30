@@ -48,17 +48,6 @@ public class TopDownMovement : MonoBehaviour
         {
             _spriteRenderer = GetComponent<SpriteRenderer>();
         }
-
-        if (GetComponent<PlayerHealth>() == null)
-        {
-            gameObject.AddComponent<PlayerHealth>();
-        }
-
-        if (GetComponent<Attacking>() == null)
-        {
-            gameObject.AddComponent<Attacking>();
-        }
-
         if (!gameObject.CompareTag("Player"))
         {
             TrySetTag("Player");
