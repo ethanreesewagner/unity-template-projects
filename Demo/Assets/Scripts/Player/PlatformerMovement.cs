@@ -33,6 +33,10 @@ public class PlatformerMovement : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Space) && _grounded) {
             _rb2d.velocity = Jump();
         }
+
+        if(transform.position.y <= -5) {
+            transform.position = new Vector3(-8.27f,-1.22f,0f);
+        }
     }
 
     // Calculates the horizontal speed for bidirectional movement
