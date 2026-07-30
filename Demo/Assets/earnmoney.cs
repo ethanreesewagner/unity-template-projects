@@ -15,4 +15,9 @@ public class earnmoney : MonoBehaviour
     {
         
     }
+    private void OnCollisionEnter2D(Collision2D collision){
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            PlayerPrefs.SetInt("money", PlayerPrefs.GetInt("money", 0) + 10);
+        }}
 }
