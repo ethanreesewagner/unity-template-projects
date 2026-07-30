@@ -17,5 +17,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/scene/Indoor.unity
     guid: a10f05e140501ae41aa36e014eb3be22
+  - enabled: 1
+    path: Assets/scene/obby.unity
+    guid: 83af4c238a30c1a4b81d7cb3cc24c932
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
