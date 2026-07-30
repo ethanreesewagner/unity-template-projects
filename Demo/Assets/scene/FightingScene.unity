@@ -594,28 +594,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13af86b3ec8d2a94daf2194cf2690849, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  globalLightIntensity: 0.22
-  globalLightColor:
-    r: 0.06
-    g: 0.1
-    b: 0.25
-    a: 0.75
-  cameraBackgroundColor:
-    r: 0.03
-    g: 0.05
-    b: 0.18
-    a: 0.75
-  playerLightColor:
-    r: 0.95
-    g: 0.82
-    b: 0.42
-    a: 1
-  playerLightRadius: 3.5
-  playerLightInnerRadius: 0.8
-  playerLightIntensity: 1.2
-  _playerLight: {fileID: 0}
-  _globalLight: {fileID: 0}
-  _targetTransform: {fileID: 0}
 --- !u!114 &1353061297
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -714,28 +692,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13af86b3ec8d2a94daf2194cf2690849, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  globalLightIntensity: 0.22
-  globalLightColor:
-    r: 0.06
-    g: 0.1
-    b: 0.25
-    a: 0.75
-  cameraBackgroundColor:
-    r: 0.03
-    g: 0.05
-    b: 0.18
-    a: 0.75
-  playerLightColor:
-    r: 0.95
-    g: 0.82
-    b: 0.42
-    a: 1
-  playerLightRadius: 3.5
-  playerLightInnerRadius: 0.8
-  playerLightIntensity: 1.2
-  _playerLight: {fileID: 0}
-  _globalLight: {fileID: 0}
-  _targetTransform: {fileID: 0}
 --- !u!114 &1353061319
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -795,7 +751,7 @@ MonoBehaviour:
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
-  m_PointLightOuterRadius: 1
+  m_PointLightOuterRadius: 4.5
   m_ShapeLightParametricSides: 5
   m_ShapeLightParametricAngleOffset: 0
   m_ShapeLightParametricRadius: 1
