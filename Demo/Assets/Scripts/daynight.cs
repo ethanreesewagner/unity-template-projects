@@ -10,12 +10,17 @@ public class daynight : MonoBehaviour
     public float defaultday;
     public float defaultnight;
     private Light2D sun;
+    public static daynight instance;
 
+    void Awake() {
+        defaultday = day;
+        defaultnight = night;
+    }
     // Start is called before the first frame update
     void Start()
     {
-        defaultday = day;
-        defaultnight = night;
+        
+        if (sun) {return;}
         sun = GetComponent<Light2D>();
         Debug.Log(sun.intensity);
     }
