@@ -504,7 +504,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8020418536403941946, guid: 4a552e9c5f1e88a408e3129463e6306d, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.99964625
       objectReference: {fileID: 0}
     - target: {fileID: 8020418536403941946, guid: 4a552e9c5f1e88a408e3129463e6306d, type: 3}
       propertyPath: m_LocalRotation.x
@@ -516,7 +516,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8020418536403941946, guid: 4a552e9c5f1e88a408e3129463e6306d, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0.026597882
       objectReference: {fileID: 0}
     - target: {fileID: 8020418536403941946, guid: 4a552e9c5f1e88a408e3129463e6306d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -751,7 +751,7 @@ MonoBehaviour:
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
-  m_PointLightOuterRadius: 4.5
+  m_PointLightOuterRadius: 9.372849
   m_ShapeLightParametricSides: 5
   m_ShapeLightParametricAngleOffset: 0
   m_ShapeLightParametricRadius: 1
