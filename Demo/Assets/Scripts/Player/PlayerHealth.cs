@@ -11,11 +11,16 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     [SerializeField] private float _regenAmount = 4f;
     [SerializeField] private float _regenDelay = 1.5f;
     [SerializeField] private float _regenInterval = 1f;
+    private SpriteRenderer spriteRenderer;
+    private Rigidbody2D rb;
+    private Collider2D collider;
 
     private float _nextRegenTime;
 
     private void Awake()
-    {
+    {spriteRenderer = GetComponent<SpriteRenderer>();
+    rb = GetComponent<Rigidbody2D>();
+    collider = GetComponent<Collider2D>();
         _health = _maxHealth;
         _nextRegenTime = Time.time + _regenDelay;
     }
@@ -58,5 +63,12 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     private void PlayerLose()
     {
         Debug.Log("Player has lost the game");
+        rb.velocity = Vector2.zero;
+                spriteRenderer.color = new Color(0.6f, 0.6f, 0.6f, 0.8f);
+            if (collider != null)
+            {
+                collider.enabled = false;
+            }
+        }
     }
-}
+
