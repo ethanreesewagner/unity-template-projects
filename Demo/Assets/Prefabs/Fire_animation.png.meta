@@ -980,7 +980,43 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fire_animation_0: -9127005590485312477
+      Fire_animation_1: -4976777976777767136
+      Fire_animation_10: 432573755562330814
+      Fire_animation_11: -7002370382208413711
+      Fire_animation_12: 1092429583253800293
+      Fire_animation_13: 1863696664879812214
+      Fire_animation_14: 2047545875102839593
+      Fire_animation_15: -7405752073622903216
+      Fire_animation_16: 4898646504888494756
+      Fire_animation_17: -5530194134347871886
+      Fire_animation_18: -7801590252777617969
+      Fire_animation_19: -2693595942309341863
+      Fire_animation_2: -2233897121538096078
+      Fire_animation_20: 2833287982403540654
+      Fire_animation_21: -2033738018451718123
+      Fire_animation_22: -5765695135941772660
+      Fire_animation_23: 4744208768437016771
+      Fire_animation_24: -1273077564362710472
+      Fire_animation_25: 5365591487811394244
+      Fire_animation_26: 8839704816140995025
+      Fire_animation_27: 7441193298894519900
+      Fire_animation_28: -7794840273203709394
+      Fire_animation_29: -1501460598256015232
+      Fire_animation_3: -4495667295444676211
+      Fire_animation_30: 791549293278285234
+      Fire_animation_31: 288893511213627386
+      Fire_animation_32: -5977022981358158610
+      Fire_animation_33: 6167890116250757012
+      Fire_animation_34: 954919415914400585
+      Fire_animation_35: 7997704566146348177
+      Fire_animation_4: -4505745850685653298
+      Fire_animation_5: 8960308417912660584
+      Fire_animation_6: 4143901240145246418
+      Fire_animation_7: 2278149864591630300
+      Fire_animation_8: -4818462717105262385
+      Fire_animation_9: -470089416049353053
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

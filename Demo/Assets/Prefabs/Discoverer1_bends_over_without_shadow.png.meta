@@ -188,7 +188,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Discoverer1_bends_over_without_shadow_0: 741598763555745307
+      Discoverer1_bends_over_without_shadow_1: -7909560838583358131
+      Discoverer1_bends_over_without_shadow_2: -7767180175154963546
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

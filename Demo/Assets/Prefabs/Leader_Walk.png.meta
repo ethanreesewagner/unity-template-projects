@@ -692,7 +692,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Leader_Walk_0: -3165628570021026585
+      Leader_Walk_1: 3812185431054842017
+      Leader_Walk_10: -468440802436455339
+      Leader_Walk_11: 8814275700804712956
+      Leader_Walk_12: 4209660755794741592
+      Leader_Walk_13: -6867524666594224180
+      Leader_Walk_14: 5196916018817666828
+      Leader_Walk_15: -824025154186573932
+      Leader_Walk_16: 3835749432074935071
+      Leader_Walk_17: -778569831809087955
+      Leader_Walk_18: -1538089976747992420
+      Leader_Walk_19: -6852356489191378612
+      Leader_Walk_2: 446766683296589957
+      Leader_Walk_20: 907679250796795154
+      Leader_Walk_21: 6633093040955036277
+      Leader_Walk_22: 1775330269153342375
+      Leader_Walk_23: 2058604077450543854
+      Leader_Walk_3: -4434237540728750576
+      Leader_Walk_4: 1553176601062328812
+      Leader_Walk_5: 9012248074427473843
+      Leader_Walk_6: 5976819010397191891
+      Leader_Walk_7: 1868892468140794830
+      Leader_Walk_8: -942702155291350608
+      Leader_Walk_9: -5934899116557932555
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

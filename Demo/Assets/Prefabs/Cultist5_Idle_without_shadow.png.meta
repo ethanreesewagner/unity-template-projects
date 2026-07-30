@@ -1124,7 +1124,49 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cultist5_Idle_without_shadow_0: -1994355436696669975
+      Cultist5_Idle_without_shadow_1: 2319230912478924930
+      Cultist5_Idle_without_shadow_10: 9041840783116258429
+      Cultist5_Idle_without_shadow_11: -3310342174336879655
+      Cultist5_Idle_without_shadow_12: 5587853698438350689
+      Cultist5_Idle_without_shadow_13: 5945121781445187779
+      Cultist5_Idle_without_shadow_14: 8928255130725204526
+      Cultist5_Idle_without_shadow_15: 7680359017881094738
+      Cultist5_Idle_without_shadow_16: 3069228422159342395
+      Cultist5_Idle_without_shadow_17: 5325731433491444822
+      Cultist5_Idle_without_shadow_18: 1703443144107213396
+      Cultist5_Idle_without_shadow_19: -587518661651411608
+      Cultist5_Idle_without_shadow_2: -147557957632265324
+      Cultist5_Idle_without_shadow_20: 1743027869553357235
+      Cultist5_Idle_without_shadow_21: 8593636678694501399
+      Cultist5_Idle_without_shadow_22: 7496138747269591704
+      Cultist5_Idle_without_shadow_23: -3112524875104440357
+      Cultist5_Idle_without_shadow_24: 2954368314261018831
+      Cultist5_Idle_without_shadow_25: 8346255278363435167
+      Cultist5_Idle_without_shadow_26: -3633173348244195225
+      Cultist5_Idle_without_shadow_27: -2479028143833976078
+      Cultist5_Idle_without_shadow_28: 2211334542807181842
+      Cultist5_Idle_without_shadow_29: 6017433112936633216
+      Cultist5_Idle_without_shadow_3: 335932045289642306
+      Cultist5_Idle_without_shadow_30: 4841370292447946384
+      Cultist5_Idle_without_shadow_31: -2737510562180237591
+      Cultist5_Idle_without_shadow_32: 7820501264304263732
+      Cultist5_Idle_without_shadow_33: -3047227805679860379
+      Cultist5_Idle_without_shadow_34: -165728829027890349
+      Cultist5_Idle_without_shadow_35: 3809660051437360418
+      Cultist5_Idle_without_shadow_36: 123161428055369006
+      Cultist5_Idle_without_shadow_37: 8457922934180455829
+      Cultist5_Idle_without_shadow_38: 6321687423564817390
+      Cultist5_Idle_without_shadow_39: -369103920747228233
+      Cultist5_Idle_without_shadow_4: -8009985001411385423
+      Cultist5_Idle_without_shadow_40: -7248110300789118088
+      Cultist5_Idle_without_shadow_41: -481318196084544873
+      Cultist5_Idle_without_shadow_5: -8741353932686013759
+      Cultist5_Idle_without_shadow_6: -1817549577527501800
+      Cultist5_Idle_without_shadow_7: -362359040776833536
+      Cultist5_Idle_without_shadow_8: -923876578418904269
+      Cultist5_Idle_without_shadow_9: 2966162652866930152
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

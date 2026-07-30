@@ -692,7 +692,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Leader_Walk_without_shadow_0: 5014185435837297026
+      Leader_Walk_without_shadow_1: 6351904751851341430
+      Leader_Walk_without_shadow_10: 3030254901735095955
+      Leader_Walk_without_shadow_11: 5905839925319603545
+      Leader_Walk_without_shadow_12: 5893406377141779181
+      Leader_Walk_without_shadow_13: 4389995307219236483
+      Leader_Walk_without_shadow_14: 6779205411345299860
+      Leader_Walk_without_shadow_15: 5064490429509234562
+      Leader_Walk_without_shadow_16: -1561395233081612495
+      Leader_Walk_without_shadow_17: 3745054985148876005
+      Leader_Walk_without_shadow_18: -4892534263065300042
+      Leader_Walk_without_shadow_19: -2899444115507423056
+      Leader_Walk_without_shadow_2: 2265081380104557707
+      Leader_Walk_without_shadow_20: -3879097004754138449
+      Leader_Walk_without_shadow_21: 2582003792568727033
+      Leader_Walk_without_shadow_22: 6243737118232816177
+      Leader_Walk_without_shadow_23: -4767134966932729310
+      Leader_Walk_without_shadow_3: -6108823954194762829
+      Leader_Walk_without_shadow_4: -6220321731175327865
+      Leader_Walk_without_shadow_5: 449264633440502701
+      Leader_Walk_without_shadow_6: 2315373571964845840
+      Leader_Walk_without_shadow_7: 8095502330150020261
+      Leader_Walk_without_shadow_8: 3124205612897429206
+      Leader_Walk_without_shadow_9: -5610328979141580448
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

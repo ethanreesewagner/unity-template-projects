@@ -1124,7 +1124,49 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cultist5_Idle_0: 6103432933960387361
+      Cultist5_Idle_1: 1292883960167543848
+      Cultist5_Idle_10: -8929363048568018007
+      Cultist5_Idle_11: -8375025628406372184
+      Cultist5_Idle_12: 2497639769237021012
+      Cultist5_Idle_13: -2540948852727481001
+      Cultist5_Idle_14: 4775326456121553907
+      Cultist5_Idle_15: -5472947079306317435
+      Cultist5_Idle_16: -2082239330635841758
+      Cultist5_Idle_17: 2882587967238856350
+      Cultist5_Idle_18: 9201978575585020733
+      Cultist5_Idle_19: -8948423392745997237
+      Cultist5_Idle_2: 7170632811227938374
+      Cultist5_Idle_20: 2048112979194046024
+      Cultist5_Idle_21: 7813369494397774610
+      Cultist5_Idle_22: 6817009541401860332
+      Cultist5_Idle_23: 3797455804428394346
+      Cultist5_Idle_24: -228775740756187155
+      Cultist5_Idle_25: -5523944902692077798
+      Cultist5_Idle_26: 6144518362768750229
+      Cultist5_Idle_27: 8048554943432364291
+      Cultist5_Idle_28: 5462092162112524925
+      Cultist5_Idle_29: 344810891025250853
+      Cultist5_Idle_3: 8757798455336886145
+      Cultist5_Idle_30: 8721982410296501748
+      Cultist5_Idle_31: 1390745737983209971
+      Cultist5_Idle_32: 3642346753581431733
+      Cultist5_Idle_33: -6501484412695126861
+      Cultist5_Idle_34: 2190373309948629424
+      Cultist5_Idle_35: 207768075187033344
+      Cultist5_Idle_36: 7220155163538881229
+      Cultist5_Idle_37: -9168362567311757082
+      Cultist5_Idle_38: 6599381170472314852
+      Cultist5_Idle_39: 4478750608021494122
+      Cultist5_Idle_4: 7785379637505851579
+      Cultist5_Idle_40: -785263563123496518
+      Cultist5_Idle_41: -4910484568793854950
+      Cultist5_Idle_5: -8585156281912805668
+      Cultist5_Idle_6: 3650910359959282658
+      Cultist5_Idle_7: 2371164523619252
+      Cultist5_Idle_8: 6653939798086956112
+      Cultist5_Idle_9: 3136659312097227892
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

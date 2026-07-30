@@ -188,7 +188,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Discoverer1_straightens_up_without_shading_0: 5600343329731484337
+      Discoverer1_straightens_up_without_shading_1: -3878769270790072812
+      Discoverer1_straightens_up_without_shading_2: -4335058081882896018
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

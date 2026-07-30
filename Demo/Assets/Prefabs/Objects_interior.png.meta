@@ -1556,7 +1556,67 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Objects_interior_0: 725428394747196921
+      Objects_interior_1: -1429008723118198073
+      Objects_interior_10: 4476072179867491380
+      Objects_interior_11: 8060590036105841250
+      Objects_interior_12: -8592707222516684783
+      Objects_interior_13: 1946219993000788849
+      Objects_interior_14: -4518859278720068242
+      Objects_interior_15: 8418788250099035671
+      Objects_interior_16: -4334583264421549599
+      Objects_interior_17: 5056949906368451168
+      Objects_interior_18: -5908610225731693568
+      Objects_interior_19: -7968409613323294933
+      Objects_interior_2: 2580434607399958907
+      Objects_interior_20: 2223843265681643896
+      Objects_interior_21: 5995102672866006089
+      Objects_interior_22: -4743556297604254832
+      Objects_interior_23: -7468712292534671269
+      Objects_interior_24: 8625404927968090027
+      Objects_interior_25: 8863013565920759929
+      Objects_interior_26: 2249227907816639236
+      Objects_interior_27: -131895325112072362
+      Objects_interior_28: -4964981515434318094
+      Objects_interior_29: 8555421563196949878
+      Objects_interior_3: -7486183889227718888
+      Objects_interior_30: -7848024885208839319
+      Objects_interior_31: -3619986196473586347
+      Objects_interior_32: 3212872702152997766
+      Objects_interior_33: 7731407702801891863
+      Objects_interior_34: -4814843538446860280
+      Objects_interior_35: 7507399071556487321
+      Objects_interior_36: -4440564831381637572
+      Objects_interior_37: 3826185376254137048
+      Objects_interior_38: -6564551641906348709
+      Objects_interior_39: 7289879388945864411
+      Objects_interior_4: -3470657639888675776
+      Objects_interior_40: 6828661113438508562
+      Objects_interior_41: 1475161228692135958
+      Objects_interior_42: 6779485166602720387
+      Objects_interior_43: 3655212723268828870
+      Objects_interior_44: 4436092932227446646
+      Objects_interior_45: -6410336068374451689
+      Objects_interior_46: 4458524824778654279
+      Objects_interior_47: 2917136463460460582
+      Objects_interior_48: 2565552309397433469
+      Objects_interior_49: -1840397647534162377
+      Objects_interior_5: 3116507508670093215
+      Objects_interior_50: 128200135300407182
+      Objects_interior_51: 6461405301921638591
+      Objects_interior_52: -645788560653709833
+      Objects_interior_53: 1913354853483382986
+      Objects_interior_54: 4659939995892317584
+      Objects_interior_55: -1427871039909430436
+      Objects_interior_56: -7970791001385903560
+      Objects_interior_57: 2656026761207922714
+      Objects_interior_58: -365045349219713720
+      Objects_interior_59: -1776695366689593823
+      Objects_interior_6: -4858761677593676071
+      Objects_interior_7: -4491212120258076483
+      Objects_interior_8: -6760713194752435552
+      Objects_interior_9: 5322844396968404123
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

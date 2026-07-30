@@ -1268,7 +1268,55 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cultist5_Pray_without_shadow_0: -721824932518893228
+      Cultist5_Pray_without_shadow_1: 4989379921355816460
+      Cultist5_Pray_without_shadow_10: -644655715383454399
+      Cultist5_Pray_without_shadow_11: 4612877268692525478
+      Cultist5_Pray_without_shadow_12: -837953901770161048
+      Cultist5_Pray_without_shadow_13: -7772929318204317225
+      Cultist5_Pray_without_shadow_14: 1037370958718008876
+      Cultist5_Pray_without_shadow_15: 7617092629858766780
+      Cultist5_Pray_without_shadow_16: 6094169829285445951
+      Cultist5_Pray_without_shadow_17: -1347664562090631285
+      Cultist5_Pray_without_shadow_18: 8254180584464154552
+      Cultist5_Pray_without_shadow_19: 7649121985939348950
+      Cultist5_Pray_without_shadow_2: -3077877805473317390
+      Cultist5_Pray_without_shadow_20: -5640672982070434791
+      Cultist5_Pray_without_shadow_21: -8730757215924939018
+      Cultist5_Pray_without_shadow_22: -8675703854446386801
+      Cultist5_Pray_without_shadow_23: -6333255959548547750
+      Cultist5_Pray_without_shadow_24: -7469209835774942179
+      Cultist5_Pray_without_shadow_25: -3379478861291160413
+      Cultist5_Pray_without_shadow_26: -6799398114633299727
+      Cultist5_Pray_without_shadow_27: 6531895582435316704
+      Cultist5_Pray_without_shadow_28: -6292453071324539561
+      Cultist5_Pray_without_shadow_29: 8148263645317404772
+      Cultist5_Pray_without_shadow_3: 8713886765115209652
+      Cultist5_Pray_without_shadow_30: -2508787310817922931
+      Cultist5_Pray_without_shadow_31: 4897498080884376830
+      Cultist5_Pray_without_shadow_32: -8123527795522508933
+      Cultist5_Pray_without_shadow_33: -8854082427296191707
+      Cultist5_Pray_without_shadow_34: -628352832925388454
+      Cultist5_Pray_without_shadow_35: 8506226036731416688
+      Cultist5_Pray_without_shadow_36: 5201271506384676222
+      Cultist5_Pray_without_shadow_37: 9035676271639689784
+      Cultist5_Pray_without_shadow_38: 9027125033232738825
+      Cultist5_Pray_without_shadow_39: -3614700456113605158
+      Cultist5_Pray_without_shadow_4: -5814822289496606791
+      Cultist5_Pray_without_shadow_40: -2950421674408850215
+      Cultist5_Pray_without_shadow_41: 9050571010407847703
+      Cultist5_Pray_without_shadow_42: -5154438064431629351
+      Cultist5_Pray_without_shadow_43: -3453698180284261192
+      Cultist5_Pray_without_shadow_44: -81159909785714147
+      Cultist5_Pray_without_shadow_45: 8663097905505131573
+      Cultist5_Pray_without_shadow_46: 3249467360784813580
+      Cultist5_Pray_without_shadow_47: -7902163186596100656
+      Cultist5_Pray_without_shadow_5: 253473115210179952
+      Cultist5_Pray_without_shadow_6: -5947296117786102756
+      Cultist5_Pray_without_shadow_7: -9218383634266483710
+      Cultist5_Pray_without_shadow_8: -952634484341562477
+      Cultist5_Pray_without_shadow_9: 8884570836113327809
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

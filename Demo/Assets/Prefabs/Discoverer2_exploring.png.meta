@@ -356,7 +356,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Discoverer2_exploring_0: 817982150597730933
+      Discoverer2_exploring_1: 8115002758253880707
+      Discoverer2_exploring_2: 8392701531255574785
+      Discoverer2_exploring_3: -4291320334633509
+      Discoverer2_exploring_4: -1888830256413567626
+      Discoverer2_exploring_5: -6535773757697533256
+      Discoverer2_exploring_6: -2283691145036786119
+      Discoverer2_exploring_7: -1181082380731761390
+      Discoverer2_exploring_8: -4922396129368464797
+      Discoverer2_exploring_9: 7049023180034679038
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
