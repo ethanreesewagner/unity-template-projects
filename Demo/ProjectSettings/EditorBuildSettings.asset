@@ -26,5 +26,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/scene/basement.unity
     guid: d4cb882e1feaa3143bb6c7f4a7addcaa
+  - enabled: 1
+    path: Assets/scene/open.unity
+    guid: 775a057627c4ef14e8d0ba73bd6227e7
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
