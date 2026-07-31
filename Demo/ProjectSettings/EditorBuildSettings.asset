@@ -20,5 +20,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/scene/obby.unity
     guid: 83af4c238a30c1a4b81d7cb3cc24c932
+  - enabled: 1
+    path: Assets/scene/obby2.unity
+    guid: d34750ca7e6d51f4baec8cec1b7df93d
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
