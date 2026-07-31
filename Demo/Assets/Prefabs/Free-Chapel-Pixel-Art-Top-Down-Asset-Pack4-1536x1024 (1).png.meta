@@ -1,0 +1,1204 @@
+fileFormatVersion: 2
+guid: 84cffbbbfe77d294eb2d3398844ee39b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2526520328310027373
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_0
+  - first:
+      213: 2175786398353735282
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_1
+  - first:
+      213: 872794778084362010
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_2
+  - first:
+      213: -4598944958673075470
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_3
+  - first:
+      213: 8629230303086664251
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_4
+  - first:
+      213: -2613141456710769197
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_5
+  - first:
+      213: -823065954604064147
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_6
+  - first:
+      213: 8623248630746963821
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_7
+  - first:
+      213: -1215046866261521010
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_8
+  - first:
+      213: 5452638788228474716
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_9
+  - first:
+      213: -232509701996424625
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_10
+  - first:
+      213: -7708566053600840440
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_11
+  - first:
+      213: 2961284246396582638
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_12
+  - first:
+      213: -1156550911742097238
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_13
+  - first:
+      213: -4205330424838537022
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_14
+  - first:
+      213: 3462820794508683957
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_15
+  - first:
+      213: 6543962293219507065
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_16
+  - first:
+      213: -3554185448136001371
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_17
+  - first:
+      213: 5236987485311022609
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_18
+  - first:
+      213: -7426712798053658613
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_19
+  - first:
+      213: -6311456194863115229
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_20
+  - first:
+      213: -795688113643247964
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_21
+  - first:
+      213: 5193088091694705545
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_22
+  - first:
+      213: 5939558360772787064
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_23
+  - first:
+      213: 5571881507972094455
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_24
+  - first:
+      213: -1509581466063208812
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_25
+  - first:
+      213: -7079534824757943473
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_26
+  - first:
+      213: -847782174803230884
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_27
+  - first:
+      213: -3583430871700780855
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_28
+  - first:
+      213: -1913607167913766142
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_29
+  - first:
+      213: -4197370360832587613
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_30
+  - first:
+      213: -515087443973570469
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_31
+  - first:
+      213: 8155977892840065716
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_32
+  - first:
+      213: 3384033461031377177
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_33
+  - first:
+      213: -7985207022935325216
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_34
+  - first:
+      213: 6466398943825839543
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_35
+  - first:
+      213: -6650802098435960155
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_36
+  - first:
+      213: -4982167996735443711
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_37
+  - first:
+      213: 7288686887487071000
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_38
+  - first:
+      213: 8519848508599195941
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_39
+  - first:
+      213: -2284271515061101590
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_40
+  - first:
+      213: -3736425602860224531
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_41
+  - first:
+      213: 4453852198515383339
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_42
+  - first:
+      213: -3070974306471932394
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_43
+  - first:
+      213: 6466117078015093733
+    second: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_44
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 340
+        width: 494
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b0741c52fffecd0800000000000000
+      internalID: -2526520328310027373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 808
+        width: 63
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e30059332f13e10800000000000000
+      internalID: 2175786398353735282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 808
+        width: 63
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17c885f93acc1c00800000000000000
+      internalID: 872794778084362010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 876
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2c7b42de34d20c0800000000000000
+      internalID: -4598944958673075470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 883
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a5484bd3f21c770800000000000000
+      internalID: 8629230303086664251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 672
+        width: 115
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d568eca0b14cbbd0800000000000000
+      internalID: -2613141456710769197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 669
+        width: 166
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d626b1500e1e394f0800000000000000
+      internalID: -823065954604064147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 504
+        width: 124
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fdb8511feeba770800000000000000
+      internalID: 8623248630746963821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 797
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dc70f0059432fe0800000000000000
+      internalID: -1215046866261521010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 643
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57efdca61aabab40800000000000000
+      internalID: 5452638788228474716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 643
+        width: 59
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42dbad68a5f5ccf0800000000000000
+      internalID: -232509701996424625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 643
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805bc77140ca50590800000000000000
+      internalID: -7708566053600840440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 506
+        width: 140
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeabd612558981920800000000000000
+      internalID: 2961284246396582638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 510
+        width: 138
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa845fcc21b13ffe0800000000000000
+      internalID: -1156550911742097238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 510
+        width: 192
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c04b58624aa3a5c0800000000000000
+      internalID: -4205330424838537022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 510
+        width: 130
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baa6817a296e0030800000000000000
+      internalID: 3462820794508683957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 398
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b36e6c803d0da50800000000000000
+      internalID: 6543962293219507065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 406
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8bdf17a2ffcaec0800000000000000
+      internalID: -3554185448136001371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 403
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11631230f548da840800000000000000
+      internalID: 5236987485311022609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 400
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b001a2ffe040fe890800000000000000
+      internalID: -7426712798053658613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 310
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324deb1c7043968a0800000000000000
+      internalID: -6311456194863115229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 310
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a62b4a50e525f4f0800000000000000
+      internalID: -795688113643247964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 310
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b26c0fa1e811840800000000000000
+      internalID: 5193088091694705545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 310
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b30982cdc8d6250800000000000000
+      internalID: 5939558360772787064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 71
+        width: 116
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f99e3dd5bc435d40800000000000000
+      internalID: 5571881507972094455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 71
+        width: 116
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ef9cb97a3ec0be0800000000000000
+      internalID: -1509581466063208812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 181
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43ab4bf59070cd90800000000000000
+      internalID: -7079534824757943473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 181
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ff1ff8a921c34f0800000000000000
+      internalID: -847782174803230884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 181
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c84b17ab98154ec0800000000000000
+      internalID: -3583430871700780855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 181
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203dbd46b608175e0800000000000000
+      internalID: -1913607167913766142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 181
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a802db35e1ffb5c0800000000000000
+      internalID: -4197370360832587613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 181
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5001b1e2ba0ad8f0800000000000000
+      internalID: -515087443973570469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 181
+        width: 71
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bacbaa6eaadf2170800000000000000
+      internalID: 8155977892840065716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 185
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9199fc0e08086fe20800000000000000
+      internalID: 3384033461031377177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 71
+        width: 23
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e54cf32588de2190800000000000000
+      internalID: -7985207022935325216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 71
+        width: 24
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b543b634934db950800000000000000
+      internalID: 6466398943825839543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 71
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a25d4b9aba93b3a0800000000000000
+      internalID: -6650802098435960155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 70
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10da3478a98cbdab0800000000000000
+      internalID: -4982167996735443711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 70
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813e6b76b1e962560800000000000000
+      internalID: 7288686887487071000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 70
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529523714159c3670800000000000000
+      internalID: 8519848508599195941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 70
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb5d3ed823ac40e0800000000000000
+      internalID: -2284271515061101590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 70
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def67dbe5bc852cc0800000000000000
+      internalID: -3736425602860224531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 70
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c1a9e1af24fcd30800000000000000
+      internalID: 4453852198515383339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 70
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e83649325b165d0800000000000000
+      internalID: -3070974306471932394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Chapel-Pixel-Art-Top-Down-Asset-Pack4-1536x1024 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 71
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb2d2739334cb950800000000000000
+      internalID: 6466117078015093733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
